@@ -69,17 +69,6 @@
       </texify-bibtex>
       <method v="2" />
     </configuration>
-    <configuration default="true" type="BIBTEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory">
-      <texify-bibtex>
-        <compiler />
-        <compiler-path />
-        <compiler-arguments />
-        <envs />
-        <main-file>$PROJECT_DIR$/../../../../../../../../../../../</main-file>
-        <aux-dir>$PROJECT_DIR$/../../../../../../../../../../../</aux-dir>
-      </texify-bibtex>
-      <method v="2" />
-    </configuration>
     <configuration name="Report" type="LATEX_RUN_CONFIGURATION" factoryName="LaTeX configuration factory" temporary="true">
       <texify>
         <compiler>PDFLATEX</compiler>

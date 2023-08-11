@@ -1,0 +1,660 @@
+Index: out/Report.log
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.20)  11 AUG 2023 11:48\nentering extended mode\n restricted \\write18 enabled.\n file:line:error style messages enabled.\n %&-line parsing enabled.\n**Report.tex\n(./Report.tex\nLaTeX2e <2020-10-01> patch level 4\nL3 programming layer <2021-02-18> (./Preamble/Preamble.tex\n(/usr/local/texlive/2021/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls\nDocument Class: IEEEtran 2015/08/26 V1.8b by Michael Shell\n-- See the \"IEEEtran_HOWTO\" manual for usage information.\n-- http://www.michaelshell.org/tex/ieeetran/\n\\@IEEEtrantmpdimenA=\\dimen138\n\\@IEEEtrantmpdimenB=\\dimen139\n\\@IEEEtrantmpdimenC=\\dimen140\n\\@IEEEtrantmpcountA=\\count179\n\\@IEEEtrantmpcountB=\\count180\n\\@IEEEtrantmpcountC=\\count181\n\\@IEEEtrantmptoksA=\\toks15\nLaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5\n03.\n(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptm.fd\nFile: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.\n)\n-- Using 8.5in x 11in (letter) paper.\n-- Using PDF output.\n\\@IEEEnormalsizeunitybaselineskip=\\dimen141\n-- This is a 10 point document.\n\\CLASSINFOnormalsizebaselineskip=\\dimen142\n\\CLASSINFOnormalsizeunitybaselineskip=\\dimen143\n\\IEEEnormaljot=\\dimen144\nLaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available\n(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.\nLaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available\n(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.\n\nLaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available\n(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.\nLaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available\n(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.\n\nLaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available\n(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.\nLaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available\n(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.\n\nLaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available\n(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.\nLaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available\n(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.\n\nLaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available\n(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.\nLaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available\n(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.\n\nLaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available\n(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.\nLaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available\n(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.\n\nLaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available\n(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.\nLaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available\n(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.\n\nLaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available\n(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.\nLaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available\n(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.\n\nLaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available\n(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.\nLaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available\n(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.\n\nLaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available\n(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1090.\nLaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available\n(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1090.\n\n\\IEEEquantizedlength=\\dimen145\n\\IEEEquantizedlengthdiff=\\dimen146\n\\IEEEquantizedtextheightdiff=\\dimen147\n\\IEEEilabelindentA=\\dimen148\n\\IEEEilabelindentB=\\dimen149\n\\IEEEilabelindent=\\dimen150\n\\IEEEelabelindent=\\dimen151\n\\IEEEdlabelindent=\\dimen152\n\\IEEElabelindent=\\dimen153\n\\IEEEiednormlabelsep=\\dimen154\n\\IEEEiedmathlabelsep=\\dimen155\n\\IEEEiedtopsep=\\skip47\n\\c@section=\\count182\n\\c@subsection=\\count183\n\\c@subsubsection=\\count184\n\\c@paragraph=\\count185\n\\c@IEEEsubequation=\\count186\n\\abovecaptionskip=\\skip48\n\\belowcaptionskip=\\skip49\n\\c@figure=\\count187\n\\c@table=\\count188\n\\@IEEEeqnnumcols=\\count189\n\\@IEEEeqncolcnt=\\count190\n\\@IEEEsubeqnnumrollback=\\count191\n\\@IEEEquantizeheightA=\\dimen156\n\\@IEEEquantizeheightB=\\dimen157\n\\@IEEEquantizeheightC=\\dimen158\n\\@IEEEquantizeprevdepth=\\dimen159\n\\@IEEEquantizemultiple=\\count192\n\\@IEEEquantizeboxA=\\box47\n\\@IEEEtmpitemindent=\\dimen160\n\\IEEEPARstartletwidth=\\dimen161\n\\c@IEEEbiography=\\count193\n\\@IEEEtranrubishbin=\\box48\n) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyphenat/hyphenat.sty\nPackage: hyphenat 2009/09/02 v2.3c hyphenation utilities\n\\langwohyphens=\\language87\nLaTeX Info: Redefining \\_ on input line 43.\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty\nPackage: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg\nFile: color.cfg 2016/01/02 v1.6 sample color configuration\n)\nPackage color Info: Driver file: pdftex.def on input line 147.\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def\nFile: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex\n))\n(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty\nPackage: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty\nPackage: keyval 2014/10/28 v1.15 key=value parser (DPC)\n\\KV@toks@=\\toks16\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty\nPackage: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty\nPackage: trig 2016/01/03 v1.10 sin cos tan (DPC)\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg\nFile: graphics.cfg 2016/06/04 v1.11 sample graphics configuration\n)\nPackage graphics Info: Driver file: pdftex.def on input line 105.\n)\n\\Gin@req@height=\\dimen162\n\\Gin@req@width=\\dimen163\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty\nPackage: caption 2020/10/26 v3.5g Customizing captions (AR)\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty\nPackage: caption3 2020/10/21 v2.2e caption3 kernel (AR)\n\\captionmargin=\\dimen164\n\\captionmargin@=\\dimen165\n\\captionwidth=\\dimen166\n\\caption@tempdima=\\dimen167\n\\caption@indent=\\dimen168\n\\caption@parindent=\\dimen169\n\\caption@hangindent=\\dimen170\nPackage caption Info: Unknown document class (or package),\n(caption)             standard defaults will be used.\nPackage caption Info: \\@makecaption = \\long macro:#1#2->\\ifx \\@captype \\@IEEEta\nblestring \\footnotesize \\bgroup \\par \\centering \\@IEEEtabletopskipstrut {\\norma\nlfont \\footnotesize #1}\\\\{\\normalfont \\footnotesize \\scshape #2}\\par \\addvspace\n {0.5\\baselineskip }\\egroup \\@IEEEtablecaptionsepspace \\else \\@IEEEfigurecaptio\nnsepspace \\setbox \\@tempboxa \\hbox {\\normalfont \\footnotesize {#1.}\\nobreakspac\ne \\nobreakspace #2}\\ifdim \\wd \\@tempboxa >\\hsize \\setbox \\@tempboxa \\hbox {\\nor\nmalfont \\footnotesize {#1.}\\nobreakspace \\nobreakspace }\\parbox [t]{\\hsize }{\\n\normalfont \\footnotesize \\noindent \\unhbox \\@tempboxa #2}\\else \\ifCLASSOPTIONcon\nference \\hbox to\\hsize {\\normalfont \\footnotesize \\hfil \\box \\@tempboxa \\hfil }\n\\else \\hbox to\\hsize {\\normalfont \\footnotesize \\box \\@tempboxa \\hfil }\\fi \\fi \n\\fi  on input line 1139.\n)\n\nPackage caption Warning: Unknown document class (or package),\n(caption)                standard defaults will be used.\nSee the caption package documentation for explanation.\n\n\\c@caption@flags=\\count194\n\\c@continuedfloat=\\count195\n) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/flafter.sty\nPackage: flafter 2018/11/28 v1.4d Standard LaTeX floats after reference (FMi)\nApplying: [2015/01/01] float order in 2-column on input line 49.\nAlready applied: [0000/00/00] float order in 2-column on input line 151.\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/placeins/placeins.sty\nPackage: placeins 2005/04/18  v 2.2\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/cite/cite.sty\nLaTeX Info: Redefining \\cite on input line 302.\nLaTeX Info: Redefining \\nocite on input line 332.\nPackage: cite 2015/02/27  v 5.5\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty\nPackage: float 2001/11/08 v1.3d Float enhancements (AL)\n\\c@float@type=\\count196\n\\float@exts=\\toks17\n\\float@box=\\box49\n\\@float@everytoks=\\toks18\n\\@floatcapt=\\box50\n)\n\\c@author=\\count197\n\n(./Preamble/TablesAndFigures.tex\n\\TempFigureLength=\\skip50\n) (./Preamble/Listings.tex\n(/usr/local/texlive/2021/texmf-dist/tex/latex/base/textcomp.sty\nPackage: textcomp 2020/02/02 v2.0n Standard LaTeX package\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.sty\n\\lst@mode=\\count198\n\\lst@gtempboxa=\\box51\n\\lst@token=\\toks19\n\\lst@length=\\count199\n\\lst@currlwidth=\\dimen171\n\\lst@column=\\count266\n\\lst@pos=\\count267\n\\lst@lostspace=\\dimen172\n\\lst@width=\\dimen173\n\\lst@newlines=\\count268\n\\lst@lineno=\\count269\n\\lst@maxwidth=\\dimen174\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty\nFile: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)\n\\c@lstnumber=\\count270\n\\lst@skipnumbers=\\count271\n\\lst@framebox=\\box52\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg\nFile: listings.cfg 2020/03/24 1.8d listings configuration\n))\nPackage: listings 2020/03/24 1.8d (Carsten Heinz)\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty\nFile: lstlang1.sty 2020/03/24 1.8d listings language file\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang2.sty\nFile: lstlang2.sty 2020/03/24 1.8d listings language file\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang3.sty\nFile: lstlang3.sty 2020/03/24 1.8d listings language file\n)\n\\c@Listing=\\count272\n\\CodeWidth=\\skip51\n)\n(./Preamble/HyperRef.tex)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty\nPackage: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX\n\n(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty\nPackage: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)\n)\n(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty\nPackage: iftex 2020/03/06 v1.0d TeX engine tests\n)\n(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty\nPackage: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO\n)\n\n(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty\nPackage: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)\n)\nPackage pdftexcmds Info: \\pdf@primitive is available.\nPackage pdftexcmds Info: \\pdf@ifprimitive is available.\nPackage pdftexcmds Info: \\pdfdraftmode found.\n)\n(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty\nPackage: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)\n)\n(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty\nPackage: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)\n)\n(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty\nPackage: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty\nPackage: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty\nPackage: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty\nPackage: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty\nPackage: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)\n)\n\\@linkdim=\\dimen175\n\\Hy@linkcounter=\\count273\n\\Hy@pagecounter=\\count274\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def\nFile: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)\nNow handling font encoding PD1 ...\n... no UTF-8 mapping file for font encoding PD1\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def\nFile: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la\nnguages\n) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty\nPackage: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)\n)\n(/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty\nPackage: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)\n)\n\\Hy@SavedSpaceFactor=\\count275\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def\nFile: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)\nNow handling font encoding PU ...\n... no UTF-8 mapping file for font encoding PU\n)\nPackage hyperref Info: Option `bookmarks' set `true' on input line 4073.\nPackage hyperref Info: Option `bookmarksnumbered' set `true' on input line 4073\n.\nPackage hyperref Info: Option `setpagesize' set `false' on input line 4073.\nPackage hyperref Info: Option `colorlinks' set `true' on input line 4073.\nPackage hyperref Info: Hyper figures OFF on input line 4192.\nPackage hyperref Info: Link nesting OFF on input line 4197.\nPackage hyperref Info: Hyper index ON on input line 4200.\nPackage hyperref Info: Plain pages OFF on input line 4207.\nPackage hyperref Info: Backreferencing OFF on input line 4212.\nPackage hyperref Info: Implicit mode ON; LaTeX internals redefined.\nPackage hyperref Info: Bookmarks ON on input line 4445.\n\\c@Hy@tempcnt=\\count276\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty\n\\Urlmuskip=\\muskip16\nPackage: url 2013/09/16  ver 3.4  Verb mode for urls, etc.\n)\nLaTeX Info: Redefining \\url on input line 4804.\n\\XeTeXLinkMargin=\\dimen176\n\n(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty\nPackage: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)\n\n(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty\nPackage: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO\n)\n))\n\\Fld@menulength=\\count277\n\\Field@Width=\\dimen177\n\\Fld@charsize=\\dimen178\nPackage hyperref Info: Hyper figures OFF on input line 6075.\nPackage hyperref Info: Link nesting OFF on input line 6080.\nPackage hyperref Info: Hyper index ON on input line 6083.\nPackage hyperref Info: backreferencing OFF on input line 6090.\nPackage hyperref Info: Link coloring ON on input line 6093.\nPackage hyperref Info: Link coloring with OCG OFF on input line 6100.\nPackage hyperref Info: PDF/A mode OFF on input line 6105.\nLaTeX Info: Redefining \\ref on input line 6145.\nLaTeX Info: Redefining \\pageref on input line 6149.\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty\nPackage: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa\nge\nwith kernel methods\n)\n\\Hy@abspage=\\count278\n\\c@Item=\\count279\n\\c@Hfootnote=\\count280\n)\nPackage hyperref Info: Driver: hpdftex.\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def\nFile: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty\nPackage: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag\ne\nwith kernel methods\n)\n\\Fld@listcount=\\count281\n\\c@bookmark@seq@number=\\count282\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty\nPackage: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)\n\n(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty\nPackage: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)\n)\nPackage uniquecounter Info: New unique counter `rerunfilecheck' on input line 2\n86.\n)\n\\Hy@SectionHShift=\\skip52\n))\n(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def\nFile: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)\n\\l__color_backend_stack_int=\\count283\n\\l__pdf_internal_box=\\box53\n)\n(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat\ne/out/Report.aux)\n\\openout1 = `Report.aux'.\n\nLaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.\nLaTeX Font Info:    ... okay on input line 17.\nLaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.\nLaTeX Font Info:    ... okay on input line 17.\nLaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.\nLaTeX Font Info:    ... okay on input line 17.\nLaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.\nLaTeX Font Info:    ... okay on input line 17.\nLaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.\nLaTeX Font Info:    ... okay on input line 17.\nLaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.\nLaTeX Font Info:    ... okay on input line 17.\nLaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.\nLaTeX Font Info:    ... okay on input line 17.\nLaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.\nLaTeX Font Info:    ... okay on input line 17.\nLaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.\nLaTeX Font Info:    ... okay on input line 17.\n\n-- Lines per column: 56 (exact).\n(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii\n[Loading MPS to PDF converter (version 2006.09.02).]\n\\scratchcounter=\\count284\n\\scratchdimen=\\dimen179\n\\scratchbox=\\box54\n\\nofMPsegments=\\count285\n\\nofMParguments=\\count286\n\\everyMPshowfont=\\toks20\n\\MPscratchCnt=\\count287\n\\MPscratchDim=\\dimen180\n\\MPnumerator=\\count288\n\\makeMPintoPDFobject=\\count289\n\\everyMPtoPDFconversion=\\toks21\n) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty\nPackage: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf\nPackage epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4\n85.\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg\nFile: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv\ne\n))\nPackage caption Info: Begin \\AtBeginDocument code.\nPackage caption Info: float package is loaded.\nPackage caption Info: hyperref package is loaded.\nPackage caption Info: listings package is loaded.\nPackage caption Info: End \\AtBeginDocument code.\n\\c@lstlisting=\\count290\nPackage hyperref Info: Link coloring ON on input line 17.\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty\nPackage: nameref 2021-04-02 v2.47 Cross-referencing by name of section\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty\nPackage: refcount 2019/12/15 v3.6 Data extraction from label references (HO)\n)\n(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s\nty\nPackage: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)\n)\n\\c@section@level=\\count291\n)\nLaTeX Info: Redefining \\ref on input line 17.\nLaTeX Info: Redefining \\pageref on input line 17.\nLaTeX Info: Redefining \\nameref on input line 17.\n\n(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat\ne/out/Report.out)\n(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat\ne/out/Report.out)\n\\@outlinefile=\\write3\n\\openout3 = `Report.out'.\n\nLaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2\n1.\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd\nFile: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.\n)\n(./FrontMatter/Abstract.tex) (./Body/Introduction.tex\nUnderfull \\hbox (badness 1609) in paragraph at lines 2--4\n\\OT1/ptm/m/n/10 em-u-la-tion, bench-mark-ing, and op-ti-mi-sa-tion in em-bed-de\nd\n []\n\n) (./Body/Methodology.tex\n./Body/Methodology.tex:9: Undefined control sequence.\nl.9 The \\text\n             {'data'} and \\text{'carrier'} arrays are predefined arrays foun...\nThe control sequence at the end of the top line\nof your error message was never \\def'ed. If you have\nmisspelled it (e.g., `\\hobx'), type `I' and the correct\nspelling (e.g., `I\\hbox'). Otherwise just continue,\nand I'll forget about whatever was undefined.\n\n./Body/Methodology.tex:9: Undefined control sequence.\nl.9 The \\text{'data'} and \\text\n                               {'carrier'} arrays are predefined arrays foun...\nThe control sequence at the end of the top line\nof your error message was never \\def'ed. If you have\nmisspelled it (e.g., `\\hobx'), type `I' and the correct\nspelling (e.g., `I\\hbox'). Otherwise just continue,\nand I'll forget about whatever was undefined.\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty\nFile: lstlang1.sty 2020/03/24 1.8d listings language file\n)\n(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty\nFile: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)\n)\nLaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1\n2.\n\n(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1pcr.fd\nFile: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.\n)\nLaTeX Font Info:    External font `cmex10' loaded for size\n(Font)              <7> on input line 29.\nLaTeX Font Info:    External font `cmex10' loaded for size\n(Font)              <5> on input line 29.\n\nUnderfull \\vbox (badness 1102) has occurred while \\output is active []\n\n\n\n./Body/Methodology.tex:73: LaTeX Error: Environment tabularx undefined.\n\nSee the LaTeX manual or LaTeX Companion for explanation.\nType  H <return>  for immediate help.\n ...                                              \n                                                  \nl.73  \\begin{tabularx}\n                      {\\textwidth}{|c{3\\textwidth}|p|}\nYour command was ignored.\nType  I <command> <return>  to replace it with another command,\nor  <return>  to continue without it.\n\n./Body/Methodology.tex:73: Missing number, treated as zero.\n<to be read again> \n                   }\nl.73  \\begin{tabularx}{\\textwidth}\n                                  {|c{3\\textwidth}|p|}\nA number should have been here; I inserted `0'.\n(If you can't figure out why I needed to see a number,\nlook up `weird error' in the index to The TeXbook.)\n\n./Body/Methodology.tex:73: Illegal unit of measure (pt inserted).\n<to be read again> \n                   }\nl.73  \\begin{tabularx}{\\textwidth}\n                                  {|c{3\\textwidth}|p|}\nDimensions can be in units of em, ex, in, pt, pc,\ncm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!\nI'll assume that you meant to say pt, for printer's points.\nTo recover gracefully from this error, it's best to\ndelete the erroneous units; e.g., type `2' to delete\ntwo letters. (See Chapter 27 of The TeXbook.)\n\n./Body/Methodology.tex:73: Missing number, treated as zero.\n<to be read again> \n                   }\nl.73  \\begin{tabularx}{\\textwidth}{|c{3\\textwidth}\n                                                  |p|}\nA number should have been here; I inserted `0'.\n(If you can't figure out why I needed to see a number,\nlook up `weird error' in the index to The TeXbook.)\n\n./Body/Methodology.tex:73: Illegal unit of measure (pt inserted).\n<to be read again> \n                   }\nl.73  \\begin{tabularx}{\\textwidth}{|c{3\\textwidth}\n                                                  |p|}\nDimensions can be in units of em, ex, in, pt, pc,\ncm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!\nI'll assume that you meant to say pt, for printer's points.\nTo recover gracefully from this error, it's best to\ndelete the erroneous units; e.g., type `2' to delete\ntwo letters. (See Chapter 27 of The TeXbook.)\n\n./Body/Methodology.tex:74: Misplaced \\noalign.\n\\hline ->\\noalign \n                  {\\ifnum 0=`}\\fi \\hrule \\@height \\arrayrulewidth \\futurelet...\nl.74   \\hline\n             \nI expect to see \\noalign only after the \\cr of\nan alignment. Proceed, and I'll ignore this case.\n\n./Body/Methodology.tex:75: Misplaced alignment tab character &.\nl.75   \\textbf{Flag} &\n                       \\textbf{Effect} \\\\\nI can't figure out why you would want to use a tab mark\nhere. If you just want an ampersand, the remedy is\nsimple: Just type `I\\&' now. But if some right brace\nup above has ended a previous alignment prematurely,\nyou're probably due for more error messages, and you\nmight try typing `S' now just to see what is salvageable.\n\n./Body/Methodology.tex:76: Misplaced \\noalign.\n\\hline ->\\noalign \n                  {\\ifnum 0=`}\\fi \\hrule \\@height \\arrayrulewidth \\futurelet...\nl.76   \\hline\n             \nI expect to see \\noalign only after the \\cr of\nan alignment. Proceed, and I'll ignore this case.\n\n\nUnderfull \\hbox (badness 10000) in paragraph at lines 75--76\n\n []\n\n./Body/Methodology.tex:77: Misplaced alignment tab character &.\nl.77   -O0 &\n             No optimizations, makes debugging logic easier. The default \\\\\nI can't figure out why you would want to use a tab mark\nhere. If you just want an ampersand, the remedy is\nsimple: Just type `I\\&' now. But if some right brace\nup above has ended a previous alignment prematurely,\nyou're probably due for more error messages, and you\nmight try typing `S' now just to see what is salvageable.\n\n./Body/Methodology.tex:78: Misplaced alignment tab character &.\nl.78   -O1 &\n             Basic optimizations for speed and size, compiles a little slowe...\nI can't figure out why you would want to use a tab mark\nhere. If you just want an ampersand, the remedy is\nsimple: Just type `I\\&' now. But if some right brace\nup above has ended a previous alignment prematurely,\nyou're probably due for more error messages, and you\nmight try typing `S' now just to see what is salvageable.\n\n./Body/Methodology.tex:79: Misplaced alignment tab character &.\nl.79   -O2 &\n             More optimizations focused on speed \\\\\nI can't figure out why you would want to use a tab mark\nhere. If you just want an ampersand, the remedy is\nsimple: Just type `I\\&' now. But if some right brace\nup above has ended a previous alignment prematurely,\nyou're probably due for more error messages, and you\nmight try typing `S' now just to see what is salvageable.\n\n./Body/Methodology.tex:80: Misplaced alignment tab character &.\nl.80   -O3 &\n             Many optimizations for speed. Compiled code may be larger than ...\nI can't figure out why you would want to use a tab mark\nhere. If you just want an ampersand, the remedy is\nsimple: Just type `I\\&' now. But if some right brace\nup above has ended a previous alignment prematurely,\nyou're probably due for more error messages, and you\nmight try typing `S' now just to see what is salvageable.\n\n./Body/Methodology.tex:81: Misplaced alignment tab character &.\nl.81   -Ofast &\n                Breaks a few rules to go much faster. Code might not behave ...\nI can't figure out why you would want to use a tab mark\nhere. If you just want an ampersand, the remedy is\nsimple: Just type `I\\&' now. But if some right brace\nup above has ended a previous alignment prematurely,\nyou're probably due for more error messages, and you\nmight try typing `S' now just to see what is salvageable.\n\n./Body/Methodology.tex:82: Misplaced alignment tab character &.\nl.82   -Os &\n             Optimize for smaller compiled code size. Useful if you don’t ...\nI can't figure out why you would want to use a tab mark\nhere. If you just want an ampersand, the remedy is\nsimple: Just type `I\\&' now. But if some right brace\nup above has ended a previous alignment prematurely,\nyou're probably due for more error messages, and you\nmight try typing `S' now just to see what is salvageable.\n\n./Body/Methodology.tex:83: Misplaced alignment tab character &.\nl.83   -Og &\n             Optimize for debugging, with slower code \\\\\nI can't figure out why you would want to use a tab mark\nhere. If you just want an ampersand, the remedy is\nsimple: Just type `I\\&' now. But if some right brace\nup above has ended a previous alignment prematurely,\nyou're probably due for more error messages, and you\nmight try typing `S' now just to see what is salvageable.\n\n./Body/Methodology.tex:84: Misplaced alignment tab character &.\nl.84   -funroll-loops &\n                        Can be added to any of the above; unrolls loops into...\nI can't figure out why you would want to use a tab mark\nhere. If you just want an ampersand, the remedy is\nsimple: Just type `I\\&' now. But if some right brace\nup above has ended a previous alignment prematurely,\nyou're probably due for more error messages, and you\nmight try typing `S' now just to see what is salvageable.\n\n./Body/Methodology.tex:85: Misplaced \\noalign.\n\\hline ->\\noalign \n                  {\\ifnum 0=`}\\fi \\hrule \\@height \\arrayrulewidth \\futurelet...\nl.85   \\hline\n             \nI expect to see \\noalign only after the \\cr of\nan alignment. Proceed, and I'll ignore this case.\n\n\nUnderfull \\hbox (badness 10000) in paragraph at lines 77--85\n\n []\n\n\n./Body/Methodology.tex:86: LaTeX Error: \\begin{table} on input line 71 ended by\n \\end{tabularx}.\n\nSee the LaTeX manual or LaTeX Companion for explanation.\nType  H <return>  for immediate help.\n ...                                              \n                                                  \nl.86  \\end{tabularx}\n                    \\label{tab:table}\nYour command was ignored.\nType  I <command> <return>  to replace it with another command,\nor  <return>  to continue without it.\n\n) (./Body/Results.tex [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/upd\nmap/pdftex.map}\n\n\n]\nLaTeX Font Info:    Trying to load font information for TS1+pcr on input line 1\n0.\n (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1pcr.fd\nFile: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.\n)\nLaTeX Font Info:    External font `cmex10' loaded for size\n(Font)              <8> on input line 27.\nLaTeX Font Info:    External font `cmex10' loaded for size\n(Font)              <6> on input line 27.\n\nUnderfull \\hbox (badness 1997) in paragraph at lines 45--46\n[]\\OT1/ptm/m/n/10 Always re-mem-ber to in-clude axes text, units and a\n []\n\n<Figures/UCT.jpg, id=99, 414.348pt x 389.2944pt>\nFile: Figures/UCT.jpg Graphic file (type jpg)\n<use Figures/UCT.jpg>\nPackage pdftex.def Info: Figures/UCT.jpg  used on input line 65.\n(pdftex.def)             Requested size: 151.20154pt x 142.0586pt.\n) (./Body/Conclusion.tex)\n(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat\ne/out/Report.bbl [2 <./Figures/UCT.jpg>])\n\n** Conference Paper **\nBefore submitting the final camera ready copy, remember to:\n\n 1. Manually equalize the lengths of two columns on the last page\n of your paper;\n\n 2. Ensure that any PostScript and/or PDF output post-processing\n uses only Type 1 fonts and that every step in the generation\n process uses the appropriate paper size.\n\n[3\n\n]\n(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat\ne/out/Report.aux)\nPackage rerunfilecheck Info: File `Report.out' has not changed.\n(rerunfilecheck)             Checksum: 291AEC39C31FF4A32B1611CECC5BE05E;1590.\n ) \nHere is how much of TeX's memory you used:\n 12782 strings out of 478994\n 196008 string characters out of 5858184\n 742630 words of memory out of 5000000\n 29980 multiletter control sequences out of 15000+600000\n 443282 words of font info for 96 fonts, out of 8000000 for 9000\n 1141 hyphenation exceptions out of 8191\n 80i,9n,80p,545b,2168s stack positions out of 5000i,500n,10000p,200000b,80000s\n{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t\nexlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te\nxlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex\nlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texli\nve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive\n/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/20\n21/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/\ntexmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/t\nexmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2021/tex\nmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2021/texmf-dist/\nfonts/type1/urw/courier/ucrro8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/t\nype1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/t\nimes/utmbi8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr\n8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>\nOutput written on /Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_C\nonference_Template/out/Report.pdf (3 pages, 743663 bytes).\nPDF statistics:\n 232 PDF objects out of 1000 (max. 8388607)\n 209 compressed objects within 3 object streams\n 91 named destinations out of 1000 (max. 500000)\n 102 words of extra memory for PDF output out of 10000 (max. 10000000)\n\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/out/Report.log b/out/Report.log
+--- a/out/Report.log	
++++ b/out/Report.log	
+@@ -1,4 +1,4 @@
+-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.20)  11 AUG 2023 11:48
++This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.20)  11 AUG 2023 14:21
+ entering extended mode
+  restricted \write18 enabled.
+  file:line:error style messages enabled.
+@@ -119,17 +119,6 @@
+ \langwohyphens=\language87
+ LaTeX Info: Redefining \_ on input line 43.
+ )
+-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+-Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+-
+-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+-File: color.cfg 2016/01/02 v1.6 sample color configuration
+-)
+-Package color Info: Driver file: pdftex.def on input line 147.
+-
+-(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+-))
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+ Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+ 
+@@ -147,10 +136,21 @@
+ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+ )
+ Package graphics Info: Driver file: pdftex.def on input line 105.
+-)
++
++(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
++File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
++))
+ \Gin@req@height=\dimen162
+ \Gin@req@width=\dimen163
+ )
++(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
++Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
++
++(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
++File: color.cfg 2016/01/02 v1.6 sample color configuration
++)
++Package color Info: Driver file: pdftex.def on input line 147.
++)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+ Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ 
+@@ -525,225 +525,161 @@
+ 
+ 
+ 
+-./Body/Methodology.tex:73: LaTeX Error: Environment tabularx undefined.
++./Body/Methodology.tex:40: LaTeX Error: There's no line here to end.
+ 
+ See the LaTeX manual or LaTeX Companion for explanation.
+ Type  H <return>  for immediate help.
+  ...                                              
+                                                   
+-l.73  \begin{tabularx}
+-                      {\textwidth}{|c{3\textwidth}|p|}
++l.40 \newline
++             
+ Your command was ignored.
+ Type  I <command> <return>  to replace it with another command,
+ or  <return>  to continue without it.
+ 
+-./Body/Methodology.tex:73: Missing number, treated as zero.
+-<to be read again> 
+-                   }
+-l.73  \begin{tabularx}{\textwidth}
+-                                  {|c{3\textwidth}|p|}
+-A number should have been here; I inserted `0'.
+-(If you can't figure out why I needed to see a number,
+-look up `weird error' in the index to The TeXbook.)
+-
+-./Body/Methodology.tex:73: Illegal unit of measure (pt inserted).
+-<to be read again> 
+-                   }
+-l.73  \begin{tabularx}{\textwidth}
+-                                  {|c{3\textwidth}|p|}
+-Dimensions can be in units of em, ex, in, pt, pc,
+-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+-I'll assume that you meant to say pt, for printer's points.
+-To recover gracefully from this error, it's best to
+-delete the erroneous units; e.g., type `2' to delete
+-two letters. (See Chapter 27 of The TeXbook.)
+-
+-./Body/Methodology.tex:73: Missing number, treated as zero.
+-<to be read again> 
+-                   }
+-l.73  \begin{tabularx}{\textwidth}{|c{3\textwidth}
+-                                                  |p|}
+-A number should have been here; I inserted `0'.
+-(If you can't figure out why I needed to see a number,
+-look up `weird error' in the index to The TeXbook.)
+-
+-./Body/Methodology.tex:73: Illegal unit of measure (pt inserted).
+-<to be read again> 
+-                   }
+-l.73  \begin{tabularx}{\textwidth}{|c{3\textwidth}
+-                                                  |p|}
+-Dimensions can be in units of em, ex, in, pt, pc,
+-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+-I'll assume that you meant to say pt, for printer's points.
+-To recover gracefully from this error, it's best to
+-delete the erroneous units; e.g., type `2' to delete
+-two letters. (See Chapter 27 of The TeXbook.)
+ 
+-./Body/Methodology.tex:74: Misplaced \noalign.
+-\hline ->\noalign 
+-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+-l.74   \hline
+-             
+-I expect to see \noalign only after the \cr of
+-an alignment. Proceed, and I'll ignore this case.
+-
+-./Body/Methodology.tex:75: Misplaced alignment tab character &.
+-l.75   \textbf{Flag} &
+-                       \textbf{Effect} \\
+-I can't figure out why you would want to use a tab mark
+-here. If you just want an ampersand, the remedy is
+-simple: Just type `I\&' now. But if some right brace
+-up above has ended a previous alignment prematurely,
+-you're probably due for more error messages, and you
+-might try typing `S' now just to see what is salvageable.
+-
+-./Body/Methodology.tex:76: Misplaced \noalign.
+-\hline ->\noalign 
+-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+-l.76   \hline
+-             
+-I expect to see \noalign only after the \cr of
+-an alignment. Proceed, and I'll ignore this case.
+-
+-
+-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+-
+- []
+-
+-./Body/Methodology.tex:77: Misplaced alignment tab character &.
+-l.77   -O0 &
+-             No optimizations, makes debugging logic easier. The default \\
+-I can't figure out why you would want to use a tab mark
+-here. If you just want an ampersand, the remedy is
+-simple: Just type `I\&' now. But if some right brace
+-up above has ended a previous alignment prematurely,
+-you're probably due for more error messages, and you
+-might try typing `S' now just to see what is salvageable.
+-
+-./Body/Methodology.tex:78: Misplaced alignment tab character &.
+-l.78   -O1 &
+-             Basic optimizations for speed and size, compiles a little slowe...
+-I can't figure out why you would want to use a tab mark
+-here. If you just want an ampersand, the remedy is
+-simple: Just type `I\&' now. But if some right brace
+-up above has ended a previous alignment prematurely,
+-you're probably due for more error messages, and you
+-might try typing `S' now just to see what is salvageable.
+-
+-./Body/Methodology.tex:79: Misplaced alignment tab character &.
+-l.79   -O2 &
+-             More optimizations focused on speed \\
+-I can't figure out why you would want to use a tab mark
+-here. If you just want an ampersand, the remedy is
+-simple: Just type `I\&' now. But if some right brace
+-up above has ended a previous alignment prematurely,
+-you're probably due for more error messages, and you
+-might try typing `S' now just to see what is salvageable.
+-
+-./Body/Methodology.tex:80: Misplaced alignment tab character &.
+-l.80   -O3 &
+-             Many optimizations for speed. Compiled code may be larger than ...
+-I can't figure out why you would want to use a tab mark
+-here. If you just want an ampersand, the remedy is
+-simple: Just type `I\&' now. But if some right brace
+-up above has ended a previous alignment prematurely,
+-you're probably due for more error messages, and you
+-might try typing `S' now just to see what is salvageable.
+-
+-./Body/Methodology.tex:81: Misplaced alignment tab character &.
+-l.81   -Ofast &
+-                Breaks a few rules to go much faster. Code might not behave ...
+-I can't figure out why you would want to use a tab mark
+-here. If you just want an ampersand, the remedy is
+-simple: Just type `I\&' now. But if some right brace
+-up above has ended a previous alignment prematurely,
+-you're probably due for more error messages, and you
+-might try typing `S' now just to see what is salvageable.
+-
+-./Body/Methodology.tex:82: Misplaced alignment tab character &.
+-l.82   -Os &
+-             Optimize for smaller compiled code size. Useful if you don’t ...
+-I can't figure out why you would want to use a tab mark
+-here. If you just want an ampersand, the remedy is
+-simple: Just type `I\&' now. But if some right brace
+-up above has ended a previous alignment prematurely,
+-you're probably due for more error messages, and you
+-might try typing `S' now just to see what is salvageable.
+-
+-./Body/Methodology.tex:83: Misplaced alignment tab character &.
+-l.83   -Og &
+-             Optimize for debugging, with slower code \\
+-I can't figure out why you would want to use a tab mark
+-here. If you just want an ampersand, the remedy is
+-simple: Just type `I\&' now. But if some right brace
+-up above has ended a previous alignment prematurely,
+-you're probably due for more error messages, and you
+-might try typing `S' now just to see what is salvageable.
+-
+-./Body/Methodology.tex:84: Misplaced alignment tab character &.
+-l.84   -funroll-loops &
+-                        Can be added to any of the above; unrolls loops into...
+-I can't figure out why you would want to use a tab mark
+-here. If you just want an ampersand, the remedy is
+-simple: Just type `I\&' now. But if some right brace
+-up above has ended a previous alignment prematurely,
+-you're probably due for more error messages, and you
+-might try typing `S' now just to see what is salvageable.
+-
+-./Body/Methodology.tex:85: Misplaced \noalign.
+-\hline ->\noalign 
+-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+-l.85   \hline
+-             
+-I expect to see \noalign only after the \cr of
+-an alignment. Proceed, and I'll ignore this case.
+-
+-
+-Underfull \hbox (badness 10000) in paragraph at lines 77--85
+-
+- []
+-
+-
+-./Body/Methodology.tex:86: LaTeX Error: \begin{table} on input line 71 ended by
+- \end{tabularx}.
++./Body/Methodology.tex:69: LaTeX Error: There's no line here to end.
+ 
+ See the LaTeX manual or LaTeX Companion for explanation.
+ Type  H <return>  for immediate help.
+  ...                                              
+                                                   
+-l.86  \end{tabularx}
+-                    \label{tab:table}
++l.69 \newline
++             
+ Your command was ignored.
+ Type  I <command> <return>  to replace it with another command,
+ or  <return>  to continue without it.
+ 
+-) (./Body/Results.tex [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/upd
+-map/pdftex.map}
++[1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ 
+ 
+ ]
++
++./Body/Methodology.tex:92: LaTeX Error: There's no line here to end.
++
++See the LaTeX manual or LaTeX Companion for explanation.
++Type  H <return>  for immediate help.
++ ...                                              
++                                                  
++l.92 \newline
++             
++Your command was ignored.
++Type  I <command> <return>  to replace it with another command,
++or  <return>  to continue without it.
++
+ LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 1
+-0.
+- (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1pcr.fd
++06.
++(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1pcr.fd
+ File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+ )
++
++./Body/Methodology.tex:113: LaTeX Error: There's no line here to end.
++
++See the LaTeX manual or LaTeX Companion for explanation.
++Type  H <return>  for immediate help.
++ ...                                              
++                                                  
++l.113 \newline
++              
++Your command was ignored.
++Type  I <command> <return>  to replace it with another command,
++or  <return>  to continue without it.
++
++) (./Body/Results.tex
+ LaTeX Font Info:    External font `cmex10' loaded for size
+-(Font)              <8> on input line 27.
++(Font)              <8> on input line 17.
+ LaTeX Font Info:    External font `cmex10' loaded for size
+-(Font)              <6> on input line 27.
++(Font)              <6> on input line 17.
++
++
++LaTeX Font Warning: Font shape `OT1/ptm/m/scit' undefined
++(Font)              using `OT1/ptm/m/it' instead on input line 56.
++
+ 
+-Underfull \hbox (badness 1997) in paragraph at lines 45--46
+-[]\OT1/ptm/m/n/10 Always re-mem-ber to in-clude axes text, units and a
++LaTeX Font Warning: Font shape `OT1/ptm/m/scit' undefined
++(Font)              using `OT1/ptm/m/it' instead on input line 56.
++
++Package epstopdf Info: Source file: <Figures/bargraf_on_C_Threaded.eps>
++(epstopdf)                    date: 2023-08-11 13:51:29
++(epstopdf)                    size: 16259 bytes
++(epstopdf)             Output file: <Figures/bargraf_on_C_Threaded-eps-converte
++d-to.pdf>
++(epstopdf)                    date: 2023-08-11 14:18:55
++(epstopdf)                    size: 9203 bytes
++(epstopdf)             Command: <repstopdf --outfile=Figures/bargraf_on_C_Threa
++ded-eps-converted-to.pdf Figures/bargraf_on_C_Threaded.eps>
++(epstopdf)             \includegraphics on input line 84.
++Package epstopdf Info: Output file is already uptodate.
++<Figures/bargraf_on_C_Threaded-eps-converted-to.pdf, id=88, 357.335pt x 305.14p
++t>
++File: Figures/bargraf_on_C_Threaded-eps-converted-to.pdf Graphic file (type pdf
++)
++<use Figures/bargraf_on_C_Threaded-eps-converted-to.pdf>
++Package pdftex.def Info: Figures/bargraf_on_C_Threaded-eps-converted-to.pdf  us
++ed on input line 84.
++(pdftex.def)             Requested size: 258.0pt x 220.32452pt.
++
++Overfull \hbox (6.0pt too wide) in paragraph at lines 84--84
++ [] 
+  []
+ 
+-<Figures/UCT.jpg, id=99, 414.348pt x 389.2944pt>
+-File: Figures/UCT.jpg Graphic file (type jpg)
+-<use Figures/UCT.jpg>
+-Package pdftex.def Info: Figures/UCT.jpg  used on input line 65.
+-(pdftex.def)             Requested size: 151.20154pt x 142.0586pt.
++
++Underfull \vbox (badness 10000) has occurred while \output is active []
++
++ [2]
++
++LaTeX Warning: Reference `lst:FormatFig' on page 3 undefined on input line 87.
++
++
++LaTeX Warning: Reference `lst:PlotExample' on page 3 undefined on input line 87
++.
++
++
++./Body/Results.tex:89: LaTeX Error: Unknown float option `d'.
++
++See the LaTeX manual or LaTeX Companion for explanation.
++Type  H <return>  for immediate help.
++ ...                                              
++                                                  
++l.89 \begin{figure}[htd]
++                        
++Option `d' ignored and `p' used.
++
++Package epstopdf Info: Source file: <bargraf_on_C_Threaded.eps>
++(epstopdf)                    date: 2023-08-11 13:51:29
++(epstopdf)                    size: 16259 bytes
++(epstopdf)             Output file: <bargraf_on_C_Threaded-eps-converted-to.pdf
++>
++(epstopdf)                    date: 2023-08-11 13:51:29
++(epstopdf)                    size: 9534 bytes
++(epstopdf)             Command: <repstopdf --outfile=bargraf_on_C_Threaded-eps-
++converted-to.pdf bargraf_on_C_Threaded.eps>
++(epstopdf)             \includegraphics on input line 91.
++Package epstopdf Info: Output file is already uptodate.
++
++
++pdfTeX warning: /usr/local/texlive/2021/bin/universal-darwin/pdflatex (file ./b
++argraf_on_C_Threaded-eps-converted-to.pdf): PDF inclusion: found PDF version <1
++.7>, but at most version <1.5> allowed
++<bargraf_on_C_Threaded-eps-converted-to.pdf, id=110, 357.335pt x 305.14pt>
++File: bargraf_on_C_Threaded-eps-converted-to.pdf Graphic file (type pdf)
++<use bargraf_on_C_Threaded-eps-converted-to.pdf>
++Package pdftex.def Info: bargraf_on_C_Threaded-eps-converted-to.pdf  used on in
++put line 91.
++(pdftex.def)             Requested size: 258.0pt x 220.32452pt.
++
++Overfull \hbox (6.0pt too wide) in paragraph at lines 91--92
++ [][] 
++ []
++
++
++Underfull \hbox (badness 4967) in paragraph at lines 92--92
++[]\OT1/ptm/m/n/10 Fig. 2: |Bar graph rep-re-sent-ing dif-fer-ent C thread-ing
++ []
++
+ ) (./Body/Conclusion.tex)
+ (/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat
+-e/out/Report.bbl [2 <./Figures/UCT.jpg>])
++e/out/Report.bbl)
+ 
+ ** Conference Paper **
+ Before submitting the final camera ready copy, remember to:
+@@ -755,41 +691,37 @@
+  uses only Type 1 fonts and that every step in the generation
+  process uses the appropriate paper size.
+ 
+-[3
+-
+-]
++[3 <./Figures/bargraf_on_C_Threaded-eps-converted-to.pdf> <./bargraf_on_C_Threa
++ded-eps-converted-to.pdf>]
+ (/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat
+ e/out/Report.aux)
++
++LaTeX Warning: There were undefined references.
++
+ Package rerunfilecheck Info: File `Report.out' has not changed.
+-(rerunfilecheck)             Checksum: 291AEC39C31FF4A32B1611CECC5BE05E;1590.
++(rerunfilecheck)             Checksum: 6C56F0A87476B00CCBD0F6804D571250;1252.
+  ) 
+ Here is how much of TeX's memory you used:
+- 12782 strings out of 478994
+- 196008 string characters out of 5858184
+- 742630 words of memory out of 5000000
+- 29980 multiletter control sequences out of 15000+600000
+- 443282 words of font info for 96 fonts, out of 8000000 for 9000
++ 12226 strings out of 478994
++ 190572 string characters out of 5858184
++ 722716 words of memory out of 5000000
++ 29436 multiletter control sequences out of 15000+600000
++ 443359 words of font info for 96 fonts, out of 8000000 for 9000
+  1141 hyphenation exceptions out of 8191
+- 80i,9n,80p,545b,2168s stack positions out of 5000i,500n,10000p,200000b,80000s
++ 80i,9n,80p,401b,1518s stack positions out of 5000i,500n,10000p,200000b,80000s
+ {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+-exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+-xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+-live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texli
+-ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
+-/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/20
+-21/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2021/
+-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/t
+-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2021/tex
+-mf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2021/texmf-dist/
+-fonts/type1/urw/courier/ucrro8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/t
+-ype1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/t
+-imes/utmbi8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr
+-8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
++exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
++live/2021/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/202
++1/texmf-dist/fonts/type1/urw/courier/ucrro8a.pfb></usr/local/texlive/2021/texmf
++-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/font
++s/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/u
++rw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/u
++tmri8a.pfb>
+ Output written on /Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_C
+-onference_Template/out/Report.pdf (3 pages, 743663 bytes).
++onference_Template/out/Report.pdf (3 pages, 106690 bytes).
+ PDF statistics:
+- 232 PDF objects out of 1000 (max. 8388607)
+- 209 compressed objects within 3 object streams
+- 91 named destinations out of 1000 (max. 500000)
+- 102 words of extra memory for PDF output out of 10000 (max. 10000000)
++ 179 PDF objects out of 1000 (max. 8388607)
++ 159 compressed objects within 2 object streams
++ 67 named destinations out of 1000 (max. 500000)
++ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 
+Index: out/Report.aux
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\\relax \n\\providecommand\\hyper@newdestlabel[2]{}\n\\providecommand\\HyperFirstAtBeginDocument{\\AtBeginDocument}\n\\HyperFirstAtBeginDocument{\\ifx\\hyper@anchor\\@undefined\n\\global\\let\\oldcontentsline\\contentsline\n\\gdef\\contentsline#1#2#3#4{\\oldcontentsline{#1}{#2}{#3}}\n\\global\\let\\oldnewlabel\\newlabel\n\\gdef\\newlabel#1#2{\\newlabelxx{#1}#2}\n\\gdef\\newlabelxx#1#2#3#4#5#6{\\oldnewlabel{#1}{{#2}{#3}}}\n\\AtEndDocument{\\ifx\\hyper@anchor\\@undefined\n\\let\\contentsline\\oldcontentsline\n\\let\\newlabel\\oldnewlabel\n\\fi}\n\\fi}\n\\global\\let\\hyper@last\\relax \n\\gdef\\HyperFirstAtBeginDocument#1{#1}\n\\providecommand\\HyField@AuxAddToFields[1]{}\n\\providecommand\\HyField@AuxAddToCoFields[2]{}\n\\bibstyle{IEEEtran}\n\\@writefile{toc}{\\contentsline {section}{\\numberline {I}Introduction}{1}{section.1}\\protected@file@percent }\n\\@writefile{toc}{\\contentsline {section}{\\numberline {II}Methodology}{1}{section.2}\\protected@file@percent }\n\\@writefile{toc}{\\contentsline {subsection}{\\numberline {\\mbox  {II-A}}Hardware}{1}{subsection.2.1}\\protected@file@percent }\n\\@writefile{toc}{\\contentsline {subsection}{\\numberline {\\mbox  {II-B}}Implementation}{1}{subsection.2.2}\\protected@file@percent }\n\\@writefile{toc}{\\contentsline {subsection}{\\numberline {\\mbox  {II-C}}Experiment Procedure}{1}{subsection.2.3}\\protected@file@percent }\n\\@writefile{toc}{\\contentsline {section}{\\numberline {III}Results}{1}{section.3}\\protected@file@percent }\n\\citation{Overlength_Fee}\n\\bibdata{Bibliography/Bibliography}\n\\bibcite{Overlength_Fee}{1}\n\\@writefile{lot}{\\contentsline {table}{\\numberline {I}{\\ignorespaces Optimization Flags and Effects\\relax }}{2}{table.caption.1}\\protected@file@percent }\n\\providecommand*\\caption@xref[2]{\\@setref\\relax\\@undefined{#1}}\n\\newlabel{tab:table}{{I}{2}{Optimization Flags and Effects\\relax }{table.caption.1}{}}\n\\@writefile{toc}{\\contentsline {subsection}{\\numberline {\\mbox  {III-A}}Figures}{2}{subsection.3.1}\\protected@file@percent }\n\\@writefile{toc}{\\contentsline {subsection}{\\numberline {\\mbox  {III-B}}Tables}{2}{subsection.3.2}\\protected@file@percent }\n\\@writefile{toc}{\\contentsline {subsection}{\\numberline {\\mbox  {III-C}}Pictures and Screen-shots}{2}{subsection.3.3}\\protected@file@percent }\n\\@writefile{lof}{\\contentsline {figure}{\\numberline {1}{\\ignorespaces An example image\\relax }}{2}{figure.caption.5}\\protected@file@percent }\n\\newlabel{fig:imageExample}{{1}{2}{An example image\\relax }{figure.caption.5}{}}\n\\@writefile{lof}{\\contentsline {section}{Listing 1{}\\nobreakspace  {}\\nobreakspace  {}\\nobreakspace  {}Octave function to format a figure and save it to a high quality PDF graph}{2}{Listing.1}\\protected@file@percent }\n\\newlabel{lst:FormatFig}{{1}{2}{Figures}{Listing.1}{}}\n\\@writefile{lof}{\\contentsline {section}{Listing 2{}\\nobreakspace  {}\\nobreakspace  {}\\nobreakspace  {}Example of how to use the FormatFig function}{2}{Listing.2}\\protected@file@percent }\n\\newlabel{lst:PlotExample}{{2}{2}{Figures}{Listing.2}{}}\n\\@writefile{lot}{\\contentsline {section}{TABLE II{}\\nobreakspace  {}\\nobreakspace  {}\\nobreakspace  {}My Informative Table}{2}{table.2}\\protected@file@percent }\n\\newlabel{tab:Example}{{II}{2}{Tables}{table.2}{}}\n\\@writefile{toc}{\\contentsline {subsection}{\\numberline {\\mbox  {III-D}}Maths}{2}{subsection.3.4}\\protected@file@percent }\n\\newlabel{eq:Example}{{1}{2}{Maths}{equation.3.1}{}}\n\\@writefile{toc}{\\contentsline {section}{\\numberline {IV}Conclusion}{2}{section.4}\\protected@file@percent }\n\\@writefile{toc}{\\contentsline {section}{References}{3}{section*.6}\\protected@file@percent }\n\\gdef \\@abspage@last{3}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/out/Report.aux b/out/Report.aux
+--- a/out/Report.aux	
++++ b/out/Report.aux	
+@@ -22,26 +22,29 @@
+ \@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {II-A}}Hardware}{1}{subsection.2.1}\protected@file@percent }
+ \@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {II-B}}Implementation}{1}{subsection.2.2}\protected@file@percent }
+ \@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {II-C}}Experiment Procedure}{1}{subsection.2.3}\protected@file@percent }
+-\@writefile{toc}{\contentsline {section}{\numberline {III}Results}{1}{section.3}\protected@file@percent }
++\@writefile{toc}{\contentsline {section}{\numberline {III}Results}{2}{section.3}\protected@file@percent }
++\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-A}}Tables}{2}{subsection.3.1}\protected@file@percent }
++\@writefile{lot}{\contentsline {section}{TABLE I{}\nobreakspace  {}\nobreakspace  {}\nobreakspace  {}Benchmarking and Non-threaded tests and Times (ms)}{2}{table.1}\protected@file@percent }
++\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
++\newlabel{tab:Test1}{{I}{2}{Tables}{table.1}{}}
++\@writefile{lot}{\contentsline {section}{TABLE II{}\nobreakspace  {}\nobreakspace  {}\nobreakspace  {}Threaded tests and Times (ms)}{2}{table.2}\protected@file@percent }
++\newlabel{tab:Test2}{{II}{2}{Tables}{table.2}{}}
++\@writefile{lot}{\contentsline {section}{TABLE III{}\nobreakspace  {}\nobreakspace  {}\nobreakspace  {}Compiler Optimisation Flags tests and Times (ms)}{2}{table.3}\protected@file@percent }
++\newlabel{tab:Test3}{{III}{2}{Tables}{table.3}{}}
++\@writefile{lot}{\contentsline {section}{TABLE IV{}\nobreakspace  {}\nobreakspace  {}\nobreakspace  {}COFs with \textit  {-funroll-loops} tests and Times (ms)}{2}{table.4}\protected@file@percent }
++\newlabel{tab:Test4}{{IV}{2}{Tables}{table.4}{}}
++\@writefile{lot}{\contentsline {section}{TABLE V{}\nobreakspace  {}\nobreakspace  {}\nobreakspace  {}C Bit Widths tests and Times (ms)}{2}{table.5}\protected@file@percent }
++\newlabel{tab:Test5}{{V}{2}{Tables}{table.5}{}}
++\@writefile{lot}{\contentsline {section}{TABLE VI{}\nobreakspace  {}\nobreakspace  {}\nobreakspace  {}Fastest Test}{2}{table.6}\protected@file@percent }
++\newlabel{tab:Test6}{{VI}{2}{Tables}{table.6}{}}
+ \citation{Overlength_Fee}
+ \bibdata{Bibliography/Bibliography}
+ \bibcite{Overlength_Fee}{1}
+-\@writefile{lot}{\contentsline {table}{\numberline {I}{\ignorespaces Optimization Flags and Effects\relax }}{2}{table.caption.1}\protected@file@percent }
+-\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+-\newlabel{tab:table}{{I}{2}{Optimization Flags and Effects\relax }{table.caption.1}{}}
+-\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-A}}Figures}{2}{subsection.3.1}\protected@file@percent }
+-\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-B}}Tables}{2}{subsection.3.2}\protected@file@percent }
+-\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-C}}Pictures and Screen-shots}{2}{subsection.3.3}\protected@file@percent }
+-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces An example image\relax }}{2}{figure.caption.5}\protected@file@percent }
+-\newlabel{fig:imageExample}{{1}{2}{An example image\relax }{figure.caption.5}{}}
+-\@writefile{lof}{\contentsline {section}{Listing 1{}\nobreakspace  {}\nobreakspace  {}\nobreakspace  {}Octave function to format a figure and save it to a high quality PDF graph}{2}{Listing.1}\protected@file@percent }
+-\newlabel{lst:FormatFig}{{1}{2}{Figures}{Listing.1}{}}
+-\@writefile{lof}{\contentsline {section}{Listing 2{}\nobreakspace  {}\nobreakspace  {}\nobreakspace  {}Example of how to use the FormatFig function}{2}{Listing.2}\protected@file@percent }
+-\newlabel{lst:PlotExample}{{2}{2}{Figures}{Listing.2}{}}
+-\@writefile{lot}{\contentsline {section}{TABLE II{}\nobreakspace  {}\nobreakspace  {}\nobreakspace  {}My Informative Table}{2}{table.2}\protected@file@percent }
+-\newlabel{tab:Example}{{II}{2}{Tables}{table.2}{}}
+-\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-D}}Maths}{2}{subsection.3.4}\protected@file@percent }
+-\newlabel{eq:Example}{{1}{2}{Maths}{equation.3.1}{}}
+-\@writefile{toc}{\contentsline {section}{\numberline {IV}Conclusion}{2}{section.4}\protected@file@percent }
+-\@writefile{toc}{\contentsline {section}{References}{3}{section*.6}\protected@file@percent }
++\@writefile{lof}{\contentsline {section}{Fig.\nobreakspace  {}1{}\nobreakspace  {}\nobreakspace  {}\nobreakspace  {}Figure}{3}{figure.1}\protected@file@percent }
++\newlabel{fig:bargraf_on_C_Threaded}{{1}{3}{Tables}{figure.1}{}}
++\@writefile{toc}{\contentsline {subsection}{\numberline {\mbox  {III-B}}Figures}{3}{subsection.3.2}\protected@file@percent }
++\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Bar graph representing different C threading configurations.\relax }}{3}{figure.caption.8}\protected@file@percent }
++\newlabel{fig:threading}{{2}{3}{Bar graph representing different C threading configurations.\relax }{figure.caption.8}{}}
++\@writefile{toc}{\contentsline {section}{\numberline {IV}Conclusion}{3}{section.4}\protected@file@percent }
++\@writefile{toc}{\contentsline {section}{References}{3}{section*.9}\protected@file@percent }
+ \gdef \@abspage@last{3}
+Index: out/Report.out
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\\BOOKMARK [1][-]{section.1}{\\376\\377\\000I\\000\\040\\000I\\000n\\000t\\000r\\000o\\000d\\000u\\000c\\000t\\000i\\000o\\000n}{}% 1\n\\BOOKMARK [1][-]{section.2}{\\376\\377\\000I\\000I\\000\\040\\000M\\000e\\000t\\000h\\000o\\000d\\000o\\000l\\000o\\000g\\000y}{}% 2\n\\BOOKMARK [2][-]{subsection.2.1}{\\376\\377\\000I\\000I\\000-\\000A\\000\\040\\000H\\000a\\000r\\000d\\000w\\000a\\000r\\000e}{section.2}% 3\n\\BOOKMARK [2][-]{subsection.2.2}{\\376\\377\\000I\\000I\\000-\\000B\\000\\040\\000I\\000m\\000p\\000l\\000e\\000m\\000e\\000n\\000t\\000a\\000t\\000i\\000o\\000n}{section.2}% 4\n\\BOOKMARK [2][-]{subsection.2.3}{\\376\\377\\000I\\000I\\000-\\000C\\000\\040\\000E\\000x\\000p\\000e\\000r\\000i\\000m\\000e\\000n\\000t\\000\\040\\000P\\000r\\000o\\000c\\000e\\000d\\000u\\000r\\000e}{section.2}% 5\n\\BOOKMARK [1][-]{section.3}{\\376\\377\\000I\\000I\\000I\\000\\040\\000R\\000e\\000s\\000u\\000l\\000t\\000s}{}% 6\n\\BOOKMARK [2][-]{subsection.3.1}{\\376\\377\\000I\\000I\\000I\\000-\\000A\\000\\040\\000F\\000i\\000g\\000u\\000r\\000e\\000s}{section.3}% 7\n\\BOOKMARK [2][-]{subsection.3.2}{\\376\\377\\000I\\000I\\000I\\000-\\000B\\000\\040\\000T\\000a\\000b\\000l\\000e\\000s}{section.3}% 8\n\\BOOKMARK [2][-]{subsection.3.3}{\\376\\377\\000I\\000I\\000I\\000-\\000C\\000\\040\\000P\\000i\\000c\\000t\\000u\\000r\\000e\\000s\\000\\040\\000a\\000n\\000d\\000\\040\\000S\\000c\\000r\\000e\\000e\\000n\\000-\\000s\\000h\\000o\\000t\\000s}{section.3}% 9\n\\BOOKMARK [2][-]{subsection.3.4}{\\376\\377\\000I\\000I\\000I\\000-\\000D\\000\\040\\000M\\000a\\000t\\000h\\000s}{section.3}% 10\n\\BOOKMARK [1][-]{section.4}{\\376\\377\\000I\\000V\\000\\040\\000C\\000o\\000n\\000c\\000l\\000u\\000s\\000i\\000o\\000n}{}% 11\n\\BOOKMARK [1][-]{section*.6}{\\376\\377\\000R\\000e\\000f\\000e\\000r\\000e\\000n\\000c\\000e\\000s}{}% 12\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/out/Report.out b/out/Report.out
+--- a/out/Report.out	
++++ b/out/Report.out	
+@@ -4,9 +4,7 @@
+ \BOOKMARK [2][-]{subsection.2.2}{\376\377\000I\000I\000-\000B\000\040\000I\000m\000p\000l\000e\000m\000e\000n\000t\000a\000t\000i\000o\000n}{section.2}% 4
+ \BOOKMARK [2][-]{subsection.2.3}{\376\377\000I\000I\000-\000C\000\040\000E\000x\000p\000e\000r\000i\000m\000e\000n\000t\000\040\000P\000r\000o\000c\000e\000d\000u\000r\000e}{section.2}% 5
+ \BOOKMARK [1][-]{section.3}{\376\377\000I\000I\000I\000\040\000R\000e\000s\000u\000l\000t\000s}{}% 6
+-\BOOKMARK [2][-]{subsection.3.1}{\376\377\000I\000I\000I\000-\000A\000\040\000F\000i\000g\000u\000r\000e\000s}{section.3}% 7
+-\BOOKMARK [2][-]{subsection.3.2}{\376\377\000I\000I\000I\000-\000B\000\040\000T\000a\000b\000l\000e\000s}{section.3}% 8
+-\BOOKMARK [2][-]{subsection.3.3}{\376\377\000I\000I\000I\000-\000C\000\040\000P\000i\000c\000t\000u\000r\000e\000s\000\040\000a\000n\000d\000\040\000S\000c\000r\000e\000e\000n\000-\000s\000h\000o\000t\000s}{section.3}% 9
+-\BOOKMARK [2][-]{subsection.3.4}{\376\377\000I\000I\000I\000-\000D\000\040\000M\000a\000t\000h\000s}{section.3}% 10
+-\BOOKMARK [1][-]{section.4}{\376\377\000I\000V\000\040\000C\000o\000n\000c\000l\000u\000s\000i\000o\000n}{}% 11
+-\BOOKMARK [1][-]{section*.6}{\376\377\000R\000e\000f\000e\000r\000e\000n\000c\000e\000s}{}% 12
++\BOOKMARK [2][-]{subsection.3.1}{\376\377\000I\000I\000I\000-\000A\000\040\000T\000a\000b\000l\000e\000s}{section.3}% 7
++\BOOKMARK [2][-]{subsection.3.2}{\376\377\000I\000I\000I\000-\000B\000\040\000F\000i\000g\000u\000r\000e\000s}{section.3}% 8
++\BOOKMARK [1][-]{section.4}{\376\377\000I\000V\000\040\000C\000o\000n\000c\000l\000u\000s\000i\000o\000n}{}% 9
++\BOOKMARK [1][-]{section*.9}{\376\377\000R\000e\000f\000e\000r\000e\000n\000c\000e\000s}{}% 10
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"bbeaf3cf-73dc-4587-8367-958d2b0c5018\" name=\"Changes\" comment=\"added sudo code\">\n      <change beforePath=\"$PROJECT_DIR$/out/Report.aux\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/Report.aux\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/out/Report.log\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/Report.log\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/out/Report.out\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/Report.out\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/out/Report.pdf\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/Report.pdf\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/out/Report.synctex.gz\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/Report.synctex.gz\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/Body/Methodology.tex\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Body/Methodology.tex\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/../..\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2ThwTgG2cda9RipfL3jbpBkRfxS\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Template&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;\n  }\n}</component>\n  <component name=\"RunManager\" selected=\"LaTeX.Report\">\n    <configuration name=\"Introduction bibliography\" type=\"BIBTEX_RUN_CONFIGURATION\" factoryName=\"LaTeX configuration factory\">\n      <texify-bibtex>\n        <compiler>BIBTEX</compiler>\n        <compiler-path />\n        <compiler-arguments />\n        <envs>\n          <env name=\"BIBINPUTS\" value=\"$PROJECT_DIR$/src/Body\" />\n          <env name=\"BSTINPUTS\" value=\"$PROJECT_DIR$/src/Body:\" />\n        </envs>\n        <main-file>$PROJECT_DIR$/src/Body/Introduction.tex</main-file>\n        <aux-dir>$PROJECT_DIR$/out</aux-dir>\n      </texify-bibtex>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"Report bibliography\" type=\"BIBTEX_RUN_CONFIGURATION\" factoryName=\"LaTeX configuration factory\">\n      <texify-bibtex>\n        <compiler>BIBTEX</compiler>\n        <compiler-path />\n        <compiler-arguments />\n        <envs>\n          <env name=\"BIBINPUTS\" value=\"$PROJECT_DIR$/src\" />\n          <env name=\"BSTINPUTS\" value=\"$PROJECT_DIR$/src:\" />\n        </envs>\n        <main-file>$PROJECT_DIR$/src/Report.tex</main-file>\n        <aux-dir>$PROJECT_DIR$/out</aux-dir>\n      </texify-bibtex>\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"BIBTEX_RUN_CONFIGURATION\" factoryName=\"LaTeX configuration factory\">\n      <texify-bibtex>\n        <compiler />\n        <compiler-path />\n        <compiler-arguments />\n        <envs />\n        <main-file>/</main-file>\n        <aux-dir>/</aux-dir>\n      </texify-bibtex>\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"Report\" type=\"LATEX_RUN_CONFIGURATION\" factoryName=\"LaTeX configuration factory\" temporary=\"true\">\n      <texify>\n        <compiler>PDFLATEX</compiler>\n        <compiler-path />\n        <sumatra-path />\n        <pdf-viewer>NONE</pdf-viewer>\n        <viewer-command />\n        <compiler-arguments />\n        <envs />\n        <main-file>$PROJECT_DIR$/src/Report.tex</main-file>\n        <output-path>$PROJECT_DIR$/out</output-path>\n        <auxil-path>{projectDir}/auxil</auxil-path>\n        <compile-twice>false</compile-twice>\n        <output-format>PDF</output-format>\n        <latex-distribution>PROJECT_SDK</latex-distribution>\n        <has-been-run>true</has-been-run>\n        <bib-run-config>[BibTeX.Report bibliography]</bib-run-config>\n        <makeindex-run-config>[]</makeindex-run-config>\n      </texify>\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"LATEX_RUN_CONFIGURATION\" factoryName=\"LaTeX configuration factory\">\n      <texify>\n        <compiler>PDFLATEX</compiler>\n        <compiler-path />\n        <sumatra-path />\n        <pdf-viewer>NONE</pdf-viewer>\n        <viewer-command />\n        <compiler-arguments />\n        <envs />\n        <main-file />\n        <output-path>{projectDir}/out</output-path>\n        <auxil-path>{projectDir}/auxil</auxil-path>\n        <compile-twice>false</compile-twice>\n        <output-format>PDF</output-format>\n        <latex-distribution>PROJECT_SDK</latex-distribution>\n        <has-been-run>false</has-been-run>\n        <bib-run-config>[]</bib-run-config>\n        <makeindex-run-config>[]</makeindex-run-config>\n      </texify>\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"LaTeX.Report\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"bbeaf3cf-73dc-4587-8367-958d2b0c5018\" name=\"Changes\" comment=\"\" />\n      <created>1691508629515</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1691508629515</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"updated hardware\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1691740661318</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1691740661318</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"added sudo code\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1691742754018</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1691742754018</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"updated hardware\" />\n    <MESSAGE value=\"added sudo code\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"added sudo code\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,13 +4,15 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="bbeaf3cf-73dc-4587-8367-958d2b0c5018" name="Changes" comment="added sudo code">
++    <list default="true" id="bbeaf3cf-73dc-4587-8367-958d2b0c5018" name="Changes" comment="added data tables">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/Report.aux" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.aux" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/Report.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.log" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/Report.out" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.out" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.pdf" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/Report.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.synctex.gz" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Body/Methodology.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/Body/Methodology.tex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Body/Conclusion.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/Body/Conclusion.tex" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/Body/Results.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/Body/Results.tex" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -147,13 +149,74 @@
+       <option name="project" value="LOCAL" />
+       <updated>1691742754018</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="table mess">
++      <option name="closed" value="true" />
++      <created>1691747399464</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1691747399464</updated>
++    </task>
++    <task id="LOCAL-00004" summary="added data tables">
++      <option name="closed" value="true" />
++      <created>1691754766529</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1691754766529</updated>
++    </task>
++    <task id="LOCAL-00005" summary="added data tables">
++      <option name="closed" value="true" />
++      <created>1691754886362</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1691754886362</updated>
++    </task>
++    <task id="LOCAL-00006" summary="added data tables">
++      <option name="closed" value="true" />
++      <created>1691756076909</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1691756076909</updated>
++    </task>
++    <task id="LOCAL-00007" summary="added data tables">
++      <option name="closed" value="true" />
++      <created>1691757179093</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1691757179093</updated>
++    </task>
++    <task id="LOCAL-00008" summary="added data tables">
++      <option name="closed" value="true" />
++      <created>1691758732845</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1691758732845</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="updated hardware" />
+     <MESSAGE value="added sudo code" />
+-    <option name="LAST_COMMIT_MESSAGE" value="added sudo code" />
++    <MESSAGE value="table mess" />
++    <MESSAGE value="added data tables" />
++    <option name="LAST_COMMIT_MESSAGE" value="added data tables" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />

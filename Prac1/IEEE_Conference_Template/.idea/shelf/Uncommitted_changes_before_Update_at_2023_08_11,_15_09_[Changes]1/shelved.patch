@@ -1,0 +1,50 @@
+Index: src/Body/Conclusion.tex
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\\section{Conclusion}\nThe conclusion should provide a summary of your findings.  Many people only read the introduction and conclusion of a paper.  They sometimes scan the tables and figures.  If the conclusion hints at interesting findings, only then will they bother to read the whole paper.\n\nYou can also include work that you intend to do in future, such as ideas for further improvements, or to make the solution more accessible to the general user-base, etc.\n\nPublishers often charge ``overlength article charges''~\\cite{Overlength_Fee}, so keep within the page limit.  In EEE4084F we will simulate overlength fees by means of a mark reduction at 10\\% per page.  Late submissions will be charged at 10\\% per day, or part thereof.\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Body/Conclusion.tex b/src/Body/Conclusion.tex
+--- a/src/Body/Conclusion.tex	
++++ b/src/Body/Conclusion.tex	
+@@ -1,6 +1,3 @@
+ \section{Conclusion}
+-The conclusion should provide a summary of your findings.  Many people only read the introduction and conclusion of a paper.  They sometimes scan the tables and figures.  If the conclusion hints at interesting findings, only then will they bother to read the whole paper.
+-
+-You can also include work that you intend to do in future, such as ideas for further improvements, or to make the solution more accessible to the general user-base, etc.
+-
+-Publishers often charge ``overlength article charges''~\cite{Overlength_Fee}, so keep within the page limit.  In EEE4084F we will simulate overlength fees by means of a mark reduction at 10\% per page.  Late submissions will be charged at 10\% per day, or part thereof.
++The fastest achieved test was using the C Language, a threaded program using 8 threads, using two compiler flags \textit{-Os} and \textit{-funroll-loops}, and the float data type.
++This test took an average of 10,8 ms which is 36 times faster than the Golden Measure.
+\ No newline at end of file
+Index: src/Body/Results.tex
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\\section{Results}\nThe results include 6 tables which refer back to each test performed in the Methodology above.\nTests II - V have been made into graphs for easier readability.\n\n\\subsection{Tables}\n\n\\Table{Benchmarking and Non-threaded tests and Times (ms)}{ccc}{\n & \\textbf{Python} & \\textbf{C} \\\\\n \\textbf{Test} & Golden Measure & Non-threaded\n}{\n \\textbf{1} & 403 & 11,1 \\\\\n \\textbf{2} & 412 & 15,1 \\\\\n \\textbf{3} & 406 & 6,12 \\\\\n \\textbf{4} & 367 & 7,07 \\\\\n \\textbf{5} & 383 & 7,65 \\\\\n \\hline\n\\textbf{Average} & 394 & 9,41 \\\\\n}{Test1}\n\nThe Non-threaded C code ran 41 times faster compared to the python Golden Measure\n\n\\Table{Threaded tests and Times (ms)}{ccccccc}{\n \\multicolumn{1}{c}{} & \\multicolumn{6}{c}{\\textbf{Threads}} \\\\\n \\textbf{Test} & 1 & 2 & 4 & 8 & 16 & 32\n}{\n \\textbf{1} & 11,2 & 1,59 & 17,3 & 8,36 & 1,46 & 3,40 \\\\\n \\textbf{2} & 10,5 & 11,2 & 6,71 & 11,3 & 8,90 & 4,88 \\\\\n \\textbf{3} & 25,5 & 31,2 & 22,1 & 10,9 & 26,0 & 24,4 \\\\\n \\textbf{4} & 40,4 & 37,5 & 2,59 & 11,3 & 2,07 & 17,8 \\\\\n \\textbf{5} & 14,9 & 52,0 & 7,66 & 1,65 & 24,8 & 29,5 \\\\\n \\hline\n \\textbf{Average} & 20,5 & 26,7 & 11,3 & 8,70 & 12,6 & 16,0 \\\\\n}{Test2}\n\nThe test run with 8 threads was the fastest, which 44 times faster than the python Golden Measure\n\n\\Table{Compiler Optimisation Flags tests and Times (ms)}{cccccccc}{\n \\multicolumn{1}{c}{} & \\multicolumn{7}{c}{\\textbf{Optimisation Flags}} \\\\\n \\textbf{Test} & -O0 & -O1 & -O2 & -O3 & -Ofast & -Os & -Og\n}{\n \\textbf{1} & 30,4 & 14,1 & 28,2 & 28,7 & 7,10 & 21,0 & 32,8 \\\\\n \\textbf{2} & 34,7 & 33,3 & 20,9 & 26,9 & 12,3 & 5,78 & 8,92 \\\\\n \\textbf{3} & 8,45 & 8,09 & 36,6 & 6,02 & 19,0 & 5,03 & 21,8 \\\\\n \\textbf{4} & 12,1 & 6,19 & 5,31 & 9,71 & 5,87 & 24,2 & 6,22 \\\\\n \\textbf{5} & 35,1 & 48,4 & 7,77 & 53,4 & 29,1 & 5,73 & 25,3 \\\\\n \\hline\n \\textbf{Average} & 24,2 & 22,0 & 19,8 & 24,9 & 14,7 & 12,3 & 19,0 \\\\\n}{Test3}\n\nThe test run with the \\textit{-Os} flag was the fastest, which ran 31 times faster than the python Golden Measure\n\n\\Table{COFs with \\textit{-funroll-loops} tests and Times (ms)}{ccccc}{\n \\multicolumn{1}{c}{} & \\multicolumn{4}{c}{\\textbf{Optimisation Flags}} \\\\\n \\textbf{Test} & -O0 & -O3 & -Ofast & -Os\n}{\n \\textbf{1} & 43,9 & 7,31 & 24,6 & 6,01 \\\\\n \\textbf{2} & 6,18 & 6,78 & 5,08 & 5,67 \\\\\n \\textbf{3} & 12,1 & 15,1 & 42,7 & 11,8 \\\\\n \\textbf{4} & 31,7 & 57,9 & 6,06 & 21,1 \\\\\n \\textbf{5} & 13,4 & 34,0 & 6,21 & 5,47 \\\\\n \\hline\n \\textbf{Average} & 21,5 & 24,2 & 16,9 & 10,0 \\\\\n}{Test4}\n\nThe test run with \\textit{-Os} and \\textit{-funroll-loops} flags was the fastest, which ran 38 times faster than the python Golden Measure.\nThe biggest improvement when adding the \\textit{-funroll-loops} flag was also the \\textit{-Os} flag, with a 23\\% improvement\n\n\\Table{C Bit Widths tests and Times (ms)}{cccc}{\n \\multicolumn{1}{c}{} & \\multicolumn{3}{c}{\\textbf{Data type}} \\\\\n \\textbf{Test} & double & float & \\textunderscore \\textunderscore fp16\n}{\n \\textbf{1} & 31,9 & 6,69 & 110 \\\\\n \\textbf{2} & 39,2 & 31,1 & 101 \\\\\n \\textbf{3} & 34,1 & 10,9 & 26,2 \\\\\n \\textbf{4} & 69,0 & 35,0 & 98,8 \\\\\n \\textbf{5} & 12,1 & 7,87 & 93,8 \\\\\n \\hline\n \\textbf{Bit widths} & 64 & 32 & 16 \\\\\n \\textbf{Average} & 37,3 & 18,3 & 86,0 \\\\\n}{Test5}\n\nThe test run with \\textit{float} data type was the fastest, which ran 21 times faster than the python Golden Measure\n\n\\Table{Fastest Test}{cc|cc}{\n \\textbf{Section} & \\textbf{Fastest} & \\textbf{Test} & \\textbf{Time (ms)}\n}{\n \\textbf{Language} & C & \\textbf{1} & 14,3 \\\\\n \\textbf{Threaded} & True & \\textbf{2} & 1,68 \\\\\n \\textbf{Threads} & 8 & \\textbf{3} & 14,6 \\\\\n \\textbf{Compiler Flag} & -Os & \\textbf{4} & 1,90 \\\\\n \\textbf{Unroll loops} & True & \\textbf{5} & 21,7 \\\\\n \\cline{3-4}\n \\textbf{Data type} & float & \\textbf{Average} & 10,8 \\\\\n}{Test6}\n\n\\Figure[width=0.5\\textwidth]{Figure name}{figure_file_name}\nIt should be noted that the data was extremely variable throughout all the tests and an average of 5 samples was likely to few for accurate testing.\n\n\\subsection{Figures}\n\n\\Figure[width=0.5\\textwidth]{Dar graph representing different C threading configurations.}{C_therding}\n\n\\Figure[width=0.5\\textwidth]{Execution time comparison using different C optimization flags}{MATLAB_C_Optimization_Flags_non_threaded}\n\n\\Figure[width=0.5\\textwidth]{Execution time comparison for C unrolled loops (unthreaded) using various optimization flags.}{C_unrolled_loops_unthreaded}\n\n\\Figure[width=0.5\\textwidth]{Comparing Execution Times of C Unthreaded Code with Different Bit Widths: Double, Float, and FP16.}{C_bit_widths_unthreaded}\n\n\n\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/Body/Results.tex b/src/Body/Results.tex
+--- a/src/Body/Results.tex	
++++ b/src/Body/Results.tex	
+@@ -98,13 +98,9 @@
+ 
+ \subsection{Figures}
+ 
+-\Figure[width=0.5\textwidth]{Dar graph representing different C threading configurations.}{C_therding}
+-
+-\Figure[width=0.5\textwidth]{Execution time comparison using different C optimization flags}{MATLAB_C_Optimization_Flags_non_threaded}
+-
+-\Figure[width=0.5\textwidth]{Execution time comparison for C unrolled loops (unthreaded) using various optimization flags.}{C_unrolled_loops_unthreaded}
+-
+-\Figure[width=0.5\textwidth]{Comparing Execution Times of C Unthreaded Code with Different Bit Widths: Double, Float, and FP16.}{C_bit_widths_unthreaded}
+-
+-
+-
++\begin{figure}[htd]
++ \centering
++ \includegraphics[width=0.5\textwidth]{bargraf_on_C_Threaded}
++ \caption{Bar graph representing different C threading configurations.}
++ \label{fig:threading}
++\end{figure}
