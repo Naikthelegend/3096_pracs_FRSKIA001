@@ -1,41 +1,39 @@
 \section{Methodology}
 
 \subsection{Hardware}
-hello Include detail such as the hardware used.  It's generally a good idea to include a block diagram at this point.  This figure was drawn in \href{http://www.inkscape.org/}{InkScape}~\cite{InkScape}.  When you want to import an InkScape figure (SVG format) into \LaTeX{}, simply save it to PDF (use the drawing extents as the media box area) and include the figure.
+The hardware used for this practical was a macOS laptop running Virtual Box with 4 CPU cores and 8 Gb of RAM. The Virtual Box was running Ubuntu image, which was in turn simulating a Raspberry Pi emulator. The Raspberry Pi emulator was used for the tests.
 
 \subsection{Implementation}
-Also mention the implementation source code:
+The following code is the sudo code format of the two files: the python code which was used as the benchmark for the C code tests and the non-threaded C code.
+The third file that was used in this test was a multi-threaded version of the C code file.
+The \text{'data'} and \text{'carrier'} arrays are predefined arrays found in another tile
 
-\begin{Matlab}
-# You can include inline Matlab / Octave code
-x = linspace(0, 2*pi, 1000);
-y = sin(x);
-plot(x, y); grid on;
-\end{Matlab}
+%Sudo
+\begin{Cpp}
+ # Load data arrays from external file
+ Load data from external file
 
-or you could turn it into a float: see listing~\ref{lst:OpenCL_Matrix_Mult}.  Floats are tables, figures and listings that appear at a different place than in the source code.  This template is set up to put floats at the top of the next column, as prescribed by the IEEE article specification.
+ # Define values
+ c = carrier array
+ d = data array
+ result = empty array
 
-\begin{OpenCL_float}{OpenCL kernel to perform matrix multiplication}{OpenCL_Matrix_Mult}
-__kernel void Multiply(
- __global float* A, // Global input buffer
- __global float* B, // Global input buffer
- __global float* Y, // Global output buffer
-   const  int    N  // Global uniform
-){
- const int i = get_global_id(0); // 1st dimension index
- const int j = get_global_id(1); // 2nd dimension index
+ # Main function
+ function main():
+ Display "There are " + length of c + " samples"
+ Display "using type " + type of first element in data array
+ Call Timing.startlog()
+ for i from 0 to length of c - 1:
+ Append c[i] * d[i] to result array
+ Call Timing.endlog()
+ }
+\end{Cpp}
 
- // Private variables
- int   k;
- float f = 0.0;
-
- // Kernel body
- for(k = 0; k < N; k++) f += A[i*N + k] * B[k*N + j];
- Y[i*N + j] = f;
-}
-\end{OpenCL_float}
-
-Only list what is relevant.  Don't give too much detail - just enough to show what you've done.  This template supports the following languages:
+\begin{Cpp}
+ nano makefile
+ make
+ for i in {1..5}; do make run; done
+\end{Cpp}
 
 \begin{itemize}
  \item Matlab (Octave)
@@ -46,4 +44,10 @@ Only list what is relevant.  Don't give too much detail - just enough to show wh
 \end{itemize}
   
 \subsection{Experiment Procedure}
-Furthermore, include detail relating to the experiment itself: what did you do, in what order was this done, why was this done, etc.  What are you trying to prove / disprove?
+The experiment start by benchmarking using the python code using the following code. All tests were run 5 times and then an average was taken.
+
+\begin{Cpp}
+ for i in {1..5}; do python3 PythonHeterodyning.py; done
+\end{Cpp}
+
+Following this, the C code was tested. First the non-threaded version was run
