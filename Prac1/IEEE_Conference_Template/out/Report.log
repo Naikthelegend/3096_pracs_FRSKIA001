@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.20)  11 AUG 2023 11:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.20)  11 AUG 2023 11:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -524,33 +524,207 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Underfull \vbox (badness 1102) has occurred while \output is active []
 
 
-./Body/Methodology.tex:46: Missing $ inserted.
-<inserted text> 
-                $
-l.46 ...d number of threaded in the CHeterodyning_
-                                                  threaded.h file. The nano ...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-./Body/Methodology.tex:47: Missing $ inserted.
-<inserted text> 
-                $
-l.47 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+./Body/Methodology.tex:73: LaTeX Error: Environment tabularx undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73  \begin{tabularx}
+                      {\textwidth}{|c{3\textwidth}|p|}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./Body/Methodology.tex:73: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.73  \begin{tabularx}{\textwidth}
+                                  {|c{3\textwidth}|p|}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Body/Methodology.tex:73: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.73  \begin{tabularx}{\textwidth}
+                                  {|c{3\textwidth}|p|}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Body/Methodology.tex:73: Missing number, treated as zero.
+<to be read again> 
+                   }
+l.73  \begin{tabularx}{\textwidth}{|c{3\textwidth}
+                                                  |p|}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./Body/Methodology.tex:73: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.73  \begin{tabularx}{\textwidth}{|c{3\textwidth}
+                                                  |p|}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./Body/Methodology.tex:74: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.74   \hline
+             
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+./Body/Methodology.tex:75: Misplaced alignment tab character &.
+l.75   \textbf{Flag} &
+                       \textbf{Effect} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Body/Methodology.tex:76: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.76   \hline
+             
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (59.37589pt too wide) in paragraph at lines 46--47
-\OT1/ptm/m/n/10 CHeterodyning$[]\OML/cmm/m/it/10 hreaded:hfile:Thenanocommandwa
-susingtoeditthefile$ 
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
  []
 
-) (./Body/Results.tex
+./Body/Methodology.tex:77: Misplaced alignment tab character &.
+l.77   -O0 &
+             No optimizations, makes debugging logic easier. The default \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Body/Methodology.tex:78: Misplaced alignment tab character &.
+l.78   -O1 &
+             Basic optimizations for speed and size, compiles a little slowe...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Body/Methodology.tex:79: Misplaced alignment tab character &.
+l.79   -O2 &
+             More optimizations focused on speed \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Body/Methodology.tex:80: Misplaced alignment tab character &.
+l.80   -O3 &
+             Many optimizations for speed. Compiled code may be larger than ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Body/Methodology.tex:81: Misplaced alignment tab character &.
+l.81   -Ofast &
+                Breaks a few rules to go much faster. Code might not behave ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Body/Methodology.tex:82: Misplaced alignment tab character &.
+l.82   -Os &
+             Optimize for smaller compiled code size. Useful if you don’t ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Body/Methodology.tex:83: Misplaced alignment tab character &.
+l.83   -Og &
+             Optimize for debugging, with slower code \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Body/Methodology.tex:84: Misplaced alignment tab character &.
+l.84   -funroll-loops &
+                        Can be added to any of the above; unrolls loops into...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./Body/Methodology.tex:85: Misplaced \noalign.
+\hline ->\noalign 
+                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
+l.85   \hline
+             
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--85
+
+ []
+
+
+./Body/Methodology.tex:86: LaTeX Error: \begin{table} on input line 71 ended by
+ \end{tabularx}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86  \end{tabularx}
+                    \label{tab:table}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (./Body/Results.tex [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/upd
+map/pdftex.map}
+
+
+]
 LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 1
 0.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1pcr.fd
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1pcr.fd
 File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -562,22 +736,14 @@ Underfull \hbox (badness 1997) in paragraph at lines 45--46
 []\OT1/ptm/m/n/10 Always re-mem-ber to in-clude axes text, units and a
  []
 
-[1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
-<Figures/UCT.jpg, id=103, 414.348pt x 389.2944pt>
+<Figures/UCT.jpg, id=99, 414.348pt x 389.2944pt>
 File: Figures/UCT.jpg Graphic file (type jpg)
 <use Figures/UCT.jpg>
 Package pdftex.def Info: Figures/UCT.jpg  used on input line 65.
 (pdftex.def)             Requested size: 151.20154pt x 142.0586pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-)
-(./Body/Conclusion.tex)
+) (./Body/Conclusion.tex)
 (/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat
-e/out/Report.bbl)
+e/out/Report.bbl [2 <./Figures/UCT.jpg>])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -589,17 +755,19 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[2 <./Figures/UCT.jpg>]
+[3
+
+]
 (/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat
 e/out/Report.aux)
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: B16B1A4B99C160CDE55B37A7FFDF5DD7;1590.
+(rerunfilecheck)             Checksum: 291AEC39C31FF4A32B1611CECC5BE05E;1590.
  ) 
 Here is how much of TeX's memory you used:
- 12776 strings out of 478994
- 195929 string characters out of 5858184
- 752569 words of memory out of 5000000
- 29976 multiletter control sequences out of 15000+600000
+ 12782 strings out of 478994
+ 196008 string characters out of 5858184
+ 742630 words of memory out of 5000000
+ 29980 multiletter control sequences out of 15000+600000
  443282 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,9n,80p,545b,2168s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -618,10 +786,10 @@ ype1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/t
 imes/utmbi8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr
 8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
 Output written on /Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_C
-onference_Template/out/Report.pdf (2 pages, 744580 bytes).
+onference_Template/out/Report.pdf (3 pages, 743663 bytes).
 PDF statistics:
- 226 PDF objects out of 1000 (max. 8388607)
- 204 compressed objects within 3 object streams
- 89 named destinations out of 1000 (max. 500000)
+ 232 PDF objects out of 1000 (max. 8388607)
+ 209 compressed objects within 3 object streams
+ 91 named destinations out of 1000 (max. 500000)
  102 words of extra memory for PDF output out of 10000 (max. 10000000)
 

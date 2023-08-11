@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbeaf3cf-73dc-4587-8367-958d2b0c5018" name="Changes" comment="added sudo code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/Report.aux" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.aux" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/Report.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/Report.out" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.out" afterDir="false" />

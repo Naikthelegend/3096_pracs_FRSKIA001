@@ -29,36 +29,72 @@ The \text{'data'} and \text{'carrier'} arrays are predefined arrays found in ano
 \end{Cpp}
 
 \subsection{Experiment Procedure}
-The experiment start by benchmarking in Python using the following code. All tests were run 5 times and then an average was taken.
+The experiment start by benchmarking in Python using the following code.
+All tests were run 5 times and then an average was taken:
 
 \begin{Cpp}
  cd Python
  for i in {1..5}; do python3 PythonHeterodyning.py; done
 \end{Cpp}
 
-The C code was tested next starting with the non-threaded version using the following code.
+The C code was tested next starting with the non-threaded version:
 \begin{Cpp}
  cd ../C
  make
  for i in {1..5}; do make run; done
 \end{Cpp}
 
-The threaded version of the C code was tested next, where each test changed the defined number of threaded in the CHeterodyning_threaded.h file. The nano command was using to edit the file
+The threaded version of the C code was tested next, where each test changed the defined number of threads in the  \textit{CHeterodyning\textunderscore threaded.h} file.
+The nano command was using to edit the file:
 
 \begin{Cpp}
  nano src/CHeterodyning_threaded.h
  for i in {1..5}; do make run; done
 \end{Cpp}
 
-where the thread count was changed in the following line to the values 1, 2, 4, 8, 16, and 32 in turn.
+Where the thread count was changed in the following line to the values 1, 2, 4, 8, 16, and 32 in turn:
 
 \begin{Cpp}
  #define Thread_Count 1
 \end{Cpp}
 
-The threaded C code was executed for each change of thread count using the following code
+The threaded C code was then executed for each change of thread count:
 
 \begin{Cpp}
  make threaded
  for i in {1..5}; do make run_threaded; done
 \end{Cpp}
+
+The next test involved the use of compiler optimisation flags, where one compiler optimisation flags below was added to the \textit{makefile} at a time.
+The \textit{-funroll-loops} flag was left for the next test.
+
+%\begin{table}[ht]
+% \caption{Optimization Flags and Effects}
+% \begin{tabularx}{\textwidth}{|c|p|}
+%  \hline
+%  \textbf{Flag} & \textbf{Effect} \\
+%  \hline
+%  -O0 & No optimizations, makes debugging logic easier. The default \\
+%  -O1 & Basic optimizations for speed and size, compiles a little slower but not much \\
+%  -O2 & More optimizations focused on speed \\
+%  -O3 & Many optimizations for speed. Compiled code may be larger than lower levels \\
+%  -Ofast & Breaks a few rules to go much faster. Code might not behave as expected \\
+%  -Os & Optimize for smaller compiled code size. Useful if you don’t have much storage space \\
+%  -Og & Optimize for debugging, with slower code \\
+%  -funroll-loops & Can be added to any of the above; unrolls loops into repeated assembly in some cases to improve speed at cost of size \\
+%  \hline
+% \end{tabularx}\label{tab:table}
+%\end{table}
+
+\Table{Comiler Flags for Optimisation}{lcr}{
+ \textbf{Flag} & \textbf{Effect}
+}{
+ -O0 & No optimisations, makes debugging logic easier. The default \\
+ -O1 & Basic optimisations for speed and size, compiles a little slower but not much \\
+ -O1 & More optimisations focused on speed \\
+ -O3 & Many optimisations for speed. Compiled code may be larger than lower levels \\
+ -Ofast & Breaks a few rules to go much faster. Code might not behave as expected \\
+ -Os & Optimise for smaller compiled code size. Useful if you don’t have much storage space \\
+ -Og & Optimise for debugging, with slower code \\
+ -funroll-loops & Can be added to any of the above; unrolls loops into repeated assembly in some cases to improve speed at cost of size \\
+}{CompilerFlags}
