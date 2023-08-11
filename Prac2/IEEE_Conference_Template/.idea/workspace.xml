@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbeaf3cf-73dc-4587-8367-958d2b0c5018" name="Changes" comment="">
+    <list default="true" id="bbeaf3cf-73dc-4587-8367-958d2b0c5018" name="Changes" comment="updated hardware">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Body/Introduction.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/Body/Introduction.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Report.aux" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Report.bbl" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.bbl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Report.blg" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.blg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Report.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/Report.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.synctex.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Body/Methodology.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/Body/Methodology.tex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +132,20 @@
       <option name="presentableId" value="Default" />
       <updated>1691508629515</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated hardware">
+      <option name="closed" value="true" />
+      <created>1691740661318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691740661318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated hardware" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated hardware" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

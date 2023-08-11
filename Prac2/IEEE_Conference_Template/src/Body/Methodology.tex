@@ -6,12 +6,11 @@ The hardware used for this practical was a macOS laptop running Virtual Box with
 \subsection{Implementation}
 Also mention the implementation source code:
 
-\begin{Matlab}
-# You can include inline Matlab / Octave code
-x = linspace(0, 2*pi, 1000);
-y = sin(x);
-plot(x, y); grid on;
-\end{Matlab}
+\begin{Cpp}
+ nano makefile
+ make
+ for i in {1..5}; do make run; done
+\end{Cpp}
 
 or you could turn it into a float: see listing~\ref{lst:OpenCL_Matrix_Mult}.  Floats are tables, figures and listings that appear at a different place than in the source code.  This template is set up to put floats at the top of the next column, as prescribed by the IEEE article specification.
 
