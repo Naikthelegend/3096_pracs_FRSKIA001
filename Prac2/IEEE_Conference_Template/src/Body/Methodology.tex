@@ -4,7 +4,28 @@
 The hardware used for this practical was a macOS laptop running Virtual Box with 4 CPU cores and 8 Gb of RAM. The Virtual Box was running Ubuntu image, which was in turn simulating a Raspberry Pi emulator. The Raspberry Pi emulator was used for the tests.
 
 \subsection{Implementation}
-Also mention the implementation source code:
+The following code is the sudo code format of the three files: the python code which was used as the benchmark for the C code tests,
+
+%Sudo
+\begin{Cpp}
+ # Load data arrays from external file
+ Load data from external file
+
+ # Define values
+ c = carrier array
+ d = data array
+ result = empty array
+
+ # Main function
+ function main():
+ Display "There are " + length of c + " samples"
+ Display "using type " + type of first element in data array
+ Call Timing.startlog()
+ for i from 0 to length of c - 1:
+ Append c[i] * d[i] to result array
+ Call Timing.endlog()
+ }
+\end{Cpp}
 
 \begin{Cpp}
  nano makefile

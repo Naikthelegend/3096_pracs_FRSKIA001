@@ -7,8 +7,6 @@
     <list default="true" id="bbeaf3cf-73dc-4587-8367-958d2b0c5018" name="Changes" comment="updated hardware">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/Report.aux" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.aux" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Report.bbl" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.bbl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/Report.blg" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.blg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/Report.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/Report.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/out/Report.synctex.gz" afterDir="false" />
