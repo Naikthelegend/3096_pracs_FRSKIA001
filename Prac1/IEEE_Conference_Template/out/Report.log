@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.20)  11 AUG 2023 10:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.6.20)  11 AUG 2023 11:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -396,7 +396,7 @@ File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count283
 \l__pdf_internal_box=\box53
 )
-(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac2/IEEE_Conference_Templat
+(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat
 e/out/Report.aux)
 \openout1 = `Report.aux'.
 
@@ -466,9 +466,9 @@ LaTeX Info: Redefining \ref on input line 17.
 LaTeX Info: Redefining \pageref on input line 17.
 LaTeX Info: Redefining \nameref on input line 17.
 
-(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac2/IEEE_Conference_Templat
+(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat
 e/out/Report.out)
-(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac2/IEEE_Conference_Templat
+(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat
 e/out/Report.out)
 \@outlinefile=\write3
 \openout3 = `Report.out'.
@@ -486,18 +486,18 @@ d
  []
 
 ) (./Body/Methodology.tex
-./Body/Methodology.tex:8: Undefined control sequence.
-l.8 ...eaded version of the C code file. The \text
-                                                  {'data'} and \text{'carrie...
+./Body/Methodology.tex:9: Undefined control sequence.
+l.9 The \text
+             {'data'} and \text{'carrier'} arrays are predefined arrays foun...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./Body/Methodology.tex:8: Undefined control sequence.
-l.8 ...he C code file. The \text{'data'} and \text
-                                                  {'carrier'} arrays are pre...
+./Body/Methodology.tex:9: Undefined control sequence.
+l.9 The \text{'data'} and \text
+                               {'carrier'} arrays are predefined arrays foun...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -511,7 +511,7 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 )
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
-1.
+2.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -523,8 +523,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 Underfull \vbox (badness 1102) has occurred while \output is active []
 
-)
-(./Body/Results.tex
+
+./Body/Methodology.tex:46: Missing $ inserted.
+<inserted text> 
+                $
+l.46 ...d number of threaded in the CHeterodyning_
+                                                  threaded.h file. The nano ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./Body/Methodology.tex:47: Missing $ inserted.
+<inserted text> 
+                $
+l.47 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (59.37589pt too wide) in paragraph at lines 46--47
+\OT1/ptm/m/n/10 CHeterodyning$[]\OML/cmm/m/it/10 hreaded:hfile:Thenanocommandwa
+susingtoeditthefile$ 
+ []
+
+) (./Body/Results.tex
 LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 1
 0.
 
@@ -544,17 +566,17 @@ Underfull \hbox (badness 1997) in paragraph at lines 45--46
 
 
 ]
-<Figures/UCT.jpg, id=95, 414.348pt x 389.2944pt>
+<Figures/UCT.jpg, id=103, 414.348pt x 389.2944pt>
 File: Figures/UCT.jpg Graphic file (type jpg)
 <use Figures/UCT.jpg>
 Package pdftex.def Info: Figures/UCT.jpg  used on input line 65.
 (pdftex.def)             Requested size: 151.20154pt x 142.0586pt.
 
-Underfull \vbox (badness 2213) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 )
 (./Body/Conclusion.tex)
-(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac2/IEEE_Conference_Templat
+(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat
 e/out/Report.bbl)
 
 ** Conference Paper **
@@ -568,19 +590,19 @@ Before submitting the final camera ready copy, remember to:
  process uses the appropriate paper size.
 
 [2 <./Figures/UCT.jpg>]
-(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac2/IEEE_Conference_Templat
+(/Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_Conference_Templat
 e/out/Report.aux)
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: 291AEC39C31FF4A32B1611CECC5BE05E;1590.
+(rerunfilecheck)             Checksum: B16B1A4B99C160CDE55B37A7FFDF5DD7;1590.
  ) 
 Here is how much of TeX's memory you used:
- 12787 strings out of 478994
- 196034 string characters out of 5858184
- 761606 words of memory out of 5000000
- 29977 multiletter control sequences out of 15000+600000
+ 12776 strings out of 478994
+ 195929 string characters out of 5858184
+ 752569 words of memory out of 5000000
+ 29976 multiletter control sequences out of 15000+600000
  443282 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,9n,80p,545b,2170s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,9n,80p,545b,2168s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
 xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
@@ -595,11 +617,11 @@ fonts/type1/urw/courier/ucrro8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/t
 ype1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/t
 imes/utmbi8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr
 8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac2/IEEE_C
-onference_Template/out/Report.pdf (2 pages, 742871 bytes).
+Output written on /Users/cameronclark/Documents/UCT/EEE3096S/pracs/Prac1/IEEE_C
+onference_Template/out/Report.pdf (2 pages, 744580 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 217 compressed objects within 3 object streams
- 99 named destinations out of 1000 (max. 500000)
+ 226 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
+ 89 named destinations out of 1000 (max. 500000)
  102 words of extra memory for PDF output out of 10000 (max. 10000000)
 

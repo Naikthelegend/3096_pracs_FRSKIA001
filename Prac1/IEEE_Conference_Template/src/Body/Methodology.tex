@@ -20,34 +20,45 @@ The \text{'data'} and \text{'carrier'} arrays are predefined arrays found in ano
 
  # Main function
  function main():
- Display "There are " + length of c + " samples"
- Display "using type " + type of first element in data array
- Call Timing.startlog()
- for i from 0 to length of c - 1:
- Append c[i] * d[i] to result array
- Call Timing.endlog()
- }
+  Display "There are " + length of c + " samples"
+  Display "using type " + type of first element in data array
+  Call Timing.startlog()
+  for i from 0 to length of c - 1:
+  Append c[i] * d[i] to result array
+  Call Timing.endlog()
 \end{Cpp}
 
+\subsection{Experiment Procedure}
+The experiment start by benchmarking in Python using the following code. All tests were run 5 times and then an average was taken.
+
 \begin{Cpp}
- nano makefile
+ cd Python
+ for i in {1..5}; do python3 PythonHeterodyning.py; done
+\end{Cpp}
+
+The C code was tested next starting with the non-threaded version using the following code.
+\begin{Cpp}
+ cd ../C
  make
  for i in {1..5}; do make run; done
 \end{Cpp}
 
-\begin{itemize}
- \item Matlab (Octave)
- \item GLSL
- \item OpenCL
- \item Verilog
- \item C++ (use the name ``Cpp'')
-\end{itemize}
-  
-\subsection{Experiment Procedure}
-The experiment start by benchmarking using the python code using the following code. All tests were run 5 times and then an average was taken.
+The threaded version of the C code was tested next, where each test changed the defined number of threaded in the CHeterodyning_threaded.h file. The nano command was using to edit the file
 
 \begin{Cpp}
- for i in {1..5}; do python3 PythonHeterodyning.py; done
+ nano src/CHeterodyning_threaded.h
+ for i in {1..5}; do make run; done
 \end{Cpp}
 
-Following this, the C code was tested. First the non-threaded version was run
+where the thread count was changed in the following line to the values 1, 2, 4, 8, 16, and 32 in turn.
+
+\begin{Cpp}
+ #define Thread_Count 1
+\end{Cpp}
+
+The threaded C code was executed for each change of thread count using the following code
+
+\begin{Cpp}
+ make threaded
+ for i in {1..5}; do make run_threaded; done
+\end{Cpp}
