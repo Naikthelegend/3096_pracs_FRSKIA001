@@ -3,6 +3,6 @@ Y = [37.26	18.312	85.96];  % Using the last row of data
 
 bar(X, Y, 0.5, 'red')
 
-title('C Bit Widths (unthreaded)')
+title('C Bit Widths (non-threaded)')
 xlabel('Bit Widths')
-ylabel('Execution Time (seconds)')
+ylabel('Execution Time (milliseconds)')

@@ -5,7 +5,7 @@ bar(X, Y, 0.5, 'FaceColor', 'red')
 hold on
 title('Execution Time for Different Thread Configurations')
 xlabel('Thread Configurations')
-ylabel('Execution Time (seconds)')
+ylabel('Execution Time (milliseconds)')
 
 print -depsc bargraf_on_C_Threaded.eps
 

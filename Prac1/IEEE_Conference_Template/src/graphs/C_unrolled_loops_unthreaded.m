@@ -5,4 +5,4 @@ bar(X, Y, 0.5, 'red')
 
 title('C Unrolled Loops (non-threaded)')
 xlabel('Optimisation Flags')
-ylabel('Execution Time (seconds)')
+ylabel('Execution Time (milliseconds)')

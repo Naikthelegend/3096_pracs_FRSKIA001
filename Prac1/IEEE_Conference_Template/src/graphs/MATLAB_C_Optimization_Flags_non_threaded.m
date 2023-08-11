@@ -10,6 +10,6 @@ title({'C Optimization Flags (non-threaded)', 'Execution Time for Different Flag
 
 % Label the x and y axes
 xlabel('Optimization Flags')
-ylabel('Execution Time (seconds)')
+ylabel('Execution Time (milliseconds)')
 
 print -C_Optimization_Flags_non_threaded.eps
