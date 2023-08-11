@@ -1,0 +1,6 @@
+y = [20.49722; 26.698;	11.272;	8.702;	12.646;	15.996];
+name_of_in_put = ['Unthreaded	1 '; 'Threads	2'; 'Threads 4'; 'Threads 8'; 'Threads	16'; 'Thread32' 'Threads
+] 
+
+bar(y)
+
