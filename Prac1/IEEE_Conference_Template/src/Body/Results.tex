@@ -17,6 +17,8 @@ Tests II - V have been made into graphs for easier readability.
 \textbf{Average} & 394 & 9,41 \\
 }{Test1}
 
+The Non-threaded C code ran 41 times faster compared to the python Golden Measure
+
 \Table{Threaded tests and Times (ms)}{ccccccc}{
  \multicolumn{1}{c}{} & \multicolumn{6}{c}{\textbf{Threads}} \\
  \textbf{Test} & 1 & 2 & 4 & 8 & 16 & 32
@@ -29,6 +31,8 @@ Tests II - V have been made into graphs for easier readability.
  \hline
  \textbf{Average} & 20,5 & 26,7 & 11,3 & 8,70 & 12,6 & 16,0 \\
 }{Test2}
+
+The test run with 8 threads was the fastest, which 44 times faster than the python Golden Measure
 
 \Table{Compiler Optimisation Flags tests and Times (ms)}{cccccccc}{
  \multicolumn{1}{c}{} & \multicolumn{7}{c}{\textbf{Optimisation Flags}} \\
@@ -43,6 +47,8 @@ Tests II - V have been made into graphs for easier readability.
  \textbf{Average} & 24,2 & 22,0 & 19,8 & 24,9 & 14,7 & 12,3 & 19,0 \\
 }{Test3}
 
+The test run with the \textit{-Os} flag was the fastest, which ran 31 times faster than the python Golden Measure
+
 \Table{COFs with \textit{-funroll-loops} tests and Times (ms)}{ccccc}{
  \multicolumn{1}{c}{} & \multicolumn{4}{c}{\textbf{Optimisation Flags}} \\
  \textbf{Test} & -O0 & -O3 & -Ofast & -Os
@@ -56,6 +62,9 @@ Tests II - V have been made into graphs for easier readability.
  \textbf{Average} & 21,5 & 24,2 & 16,9 & 10,0 \\
 }{Test4}
 
+The test run with \textit{-Os} and \textit{-funroll-loops} flags was the fastest, which ran 38 times faster than the python Golden Measure.
+The biggest improvement when adding the \textit{-funroll-loops} flag was also the \textit{-Os} flag, with a 23\% improvement
+
 \Table{C Bit Widths tests and Times (ms)}{cccc}{
  \multicolumn{1}{c}{} & \multicolumn{3}{c}{\textbf{Data type}} \\
  \textbf{Test} & double & float & \textunderscore \textunderscore fp16
@@ -63,12 +72,14 @@ Tests II - V have been made into graphs for easier readability.
  \textbf{1} & 31,9 & 6,69 & 110 \\
  \textbf{2} & 39,2 & 31,1 & 101 \\
  \textbf{3} & 34,1 & 10,9 & 26,2 \\
- \textbf{4} & 69 & 35 & 98,8 \\
+ \textbf{4} & 69,0 & 35,0 & 98,8 \\
  \textbf{5} & 12,1 & 7,87 & 93,8 \\
  \hline
  \textbf{Bit widths} & 64 & 32 & 16 \\
- \textbf{Average} & 37,26 & 18,312 & 85,96 \\
+ \textbf{Average} & 37,3 & 18,3 & 86,0 \\
 }{Test5}
+
+The test run with \textit{float} data type was the fastest, which ran 21 times faster than the python Golden Measure
 
 \Table{Fastest Test}{cc|cc}{
  \textbf{Section} & \textbf{Fastest} & \textbf{Test} & \textbf{Time (ms)}
@@ -82,8 +93,9 @@ Tests II - V have been made into graphs for easier readability.
  \textbf{Data type} & float & \textbf{Average} & 10,8 \\
 }{Test6}
 
+It should be noted that the data was extremely variable throughout all the tests and an average of 5 samples was likely to few for accurate testing.
+
 \subsection{Figures}
-Include good quality graphs.  These were produced by the Octave code presented in listings~\ref{lst:FormatFig} and~\ref{lst:PlotExample}.  You can play around with the \texttt{PaperSize} and \texttt{PaperPosition} variables to change the aspect ratio.  An easy way to obtain more space on a paper is to use wide, flat figures, such as Fig.
 
 \begin{figure}[htd]
  \centering
