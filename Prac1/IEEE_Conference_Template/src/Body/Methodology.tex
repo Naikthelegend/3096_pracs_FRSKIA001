@@ -37,6 +37,7 @@ All tests were run 5 times and then an average was taken:
  for i in {1..5}; do python3 PythonHeterodyning.py; done
 \end{Cpp}
 
+\newline
 The C code was tested next starting with the non-threaded version:
 \begin{Cpp}
  cd ../C
@@ -65,36 +66,49 @@ The threaded C code was then executed for each change of thread count:
  for i in {1..5}; do make run_threaded; done
 \end{Cpp}
 
-The next test involved the use of compiler optimisation flags, where one compiler optimisation flags below was added to the \textit{makefile} at a time.
-The \textit{-funroll-loops} flag was left for the next test.
+\newline
+The next test involved the use of compiler optimisation flags which optimisation which optimise the code for various application.
+One of the following were using at a time:
 
-%\begin{table}[ht]
-% \caption{Optimization Flags and Effects}
-% \begin{tabularx}{\textwidth}{|c|p|}
-%  \hline
-%  \textbf{Flag} & \textbf{Effect} \\
-%  \hline
-%  -O0 & No optimizations, makes debugging logic easier. The default \\
-%  -O1 & Basic optimizations for speed and size, compiles a little slower but not much \\
-%  -O2 & More optimizations focused on speed \\
-%  -O3 & Many optimizations for speed. Compiled code may be larger than lower levels \\
-%  -Ofast & Breaks a few rules to go much faster. Code might not behave as expected \\
-%  -Os & Optimize for smaller compiled code size. Useful if you don’t have much storage space \\
-%  -Og & Optimize for debugging, with slower code \\
-%  -funroll-loops & Can be added to any of the above; unrolls loops into repeated assembly in some cases to improve speed at cost of size \\
-%  \hline
-% \end{tabularx}\label{tab:table}
-%\end{table}
+\begin{itemize}
+ \item -O0
+ \item -O1
+ \item -O2
+ \item -O3
+ \item -Ofast
+ \item -Os
+ \item -Og
+\end{itemize}
 
-\Table{Comiler Flags for Optimisation}{lcr}{
- \textbf{Flag} & \textbf{Effect}
-}{
- -O0 & No optimisations, makes debugging logic easier. The default \\
- -O1 & Basic optimisations for speed and size, compiles a little slower but not much \\
- -O1 & More optimisations focused on speed \\
- -O3 & Many optimisations for speed. Compiled code may be larger than lower levels \\
- -Ofast & Breaks a few rules to go much faster. Code might not behave as expected \\
- -Os & Optimise for smaller compiled code size. Useful if you don’t have much storage space \\
- -Og & Optimise for debugging, with slower code \\
- -funroll-loops & Can be added to any of the above; unrolls loops into repeated assembly in some cases to improve speed at cost of size \\
-}{CompilerFlags}
+They were added to the The \textit{makefile} under the \textit{\$(CFLAG)} heading and then the non-threaded version was run:
+
+\begin{Cpp}
+ nano makefile
+\end{Cpp}
+
+The \textit{-funroll-loops} flag unrolls loops into repetitive code.
+It can be combined with any of the flags used in the previous test, however, for efficiencies sake, it was only applied to the slowest and fasted two compiler optimisation flags.
+
+\newline
+The last test involves altering bit widths of the data arrays.
+This involves change the data type of the arrays in \textit{globals.h} and the output array in \textit{CHeterodyning\textunderscore threaded.h}
+The data types that were tested were
+
+\begin{itemize}
+ \item float
+ \item double
+ \item \textunderscore \textunderscore fp16
+\end{itemize}
+
+The following code quickly changes the data types in the array where \textit{abc} and \textit{xyc} can be substituted as to the data type in the file and the data type to change to respectively
+
+\begin{Cpp}
+ sed -i -e 's/abc/xyz/g' src/globals.h
+ sed -i -e 's/abc/xyz/g' src/CHeterodyning.c
+\end{Cpp}
+
+Importantly, when the data type \textit{\textunderscore \textunderscore fp16} is used, the compiler flag \textit{-mfp-format=ieee}.
+All added compiler flags were removed before running this test, and the non-threaded version was used
+
+\newline
+Finally the best combination of the above number of threads, compiler flags including \textit{-funroll-loops} and bit width was used to generate the fastest C code execution.
