@@ -1,0 +1,3 @@
+/Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/3096_pracs_FRSKIA001_CLRCAM007/Prac2/Prac2_student/cmake-build-debug/CMakeFiles/Hello.elf.dir
+/Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/3096_pracs_FRSKIA001_CLRCAM007/Prac2/Prac2_student/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/3096_pracs_FRSKIA001_CLRCAM007/Prac2/Prac2_student/cmake-build-debug/CMakeFiles/rebuild_cache.dir
