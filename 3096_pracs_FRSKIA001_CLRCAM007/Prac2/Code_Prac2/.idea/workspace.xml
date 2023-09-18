@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Code" targetName="Code.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="787bab6c-71f1-4111-a98d-9380666d64fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="EmbeddedSvdWindowState">
+    <option name="columnWidths">
+      <list>
+        <option value="212" />
+        <option value="92" />
+        <option value="1008" />
+      </list>
+    </option>
+    <option name="columnOrder">
+      <list>
+        <option value="Name" />
+        <option value="Value" />
+        <option value="Description" />
+      </list>
+    </option>
+    <option name="loadedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/STM32F0xx.svd" />
+      </list>
+    </option>
+    <option name="nodes">
+      <map>
+        <entry key="STM32F0xx.svd" value="-E" />
+        <entry key="STM32F0xx.svd|g:GPIO" value="-E" />
+        <entry key="STM32F0xx.svd|g:TIM" value="-E" />
+        <entry key="STM32F0xx.svd|p:GPIOA" value="-E" />
+        <entry key="STM32F0xx.svd|p:GPIOA|AFRH" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOA|AFRL" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOA|BRR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOA|BSRR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOA|IDR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOA|LCKR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOA|MODER" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOA|ODR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOA|OSPEEDR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOA|OTYPER" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOA|PUPDR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOB" value="-E" />
+        <entry key="STM32F0xx.svd|p:GPIOB|AFRH" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOB|AFRL" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOB|BRR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOB|BSRR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOB|IDR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOB|LCKR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOB|MODER" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOB|ODR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOB|OSPEEDR" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOB|OTYPER" value="HC" />
+        <entry key="STM32F0xx.svd|p:GPIOB|PUPDR" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16" value="-E" />
+        <entry key="STM32F0xx.svd|p:TIM16|ARR" value="HE" />
+        <entry key="STM32F0xx.svd|p:TIM16|BDTR" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|CCER" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|CCMR1_Input" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|CCMR1_Output" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|CCR1" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|CNT" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|CR1" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|CR2" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|DCR" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|DIER" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|DMAR" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|EGR" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|PSC" value="HE" />
+        <entry key="STM32F0xx.svd|p:TIM16|RCR" value="HC" />
+        <entry key="STM32F0xx.svd|p:TIM16|SR" value="HC" />
+      </map>
+    </option>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.5" />
+  </component>
+  <component name="ProjectId" id="2UIySHLuny72UwlNrG4IpHSBecU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Embedded GDB Server.STLink">
+    <configuration name="Code.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="Code.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="Code.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="STLink" type="com.jetbrains.cidr.embedded.customgdbserver.type" factoryName="com.jetbrains.cidr.embedded.customgdbserver.factory" PROGRAM_PARAMS="-p 23920 --freq=1800K" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="Code.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="Code.elf">
+      <custom-gdb-server version="1" gdb-connect="tcp::23920" executable="/opt/local/bin/st-util" warmup-ms="0" download-type="UPDATED_ONLY" reset-cmd="monitor reset" reset-type="AFTER_DOWNLOAD">
+        <debugger kind="GDB" isBundled="true" />
+      </custom-gdb-server>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Code.elf" />
+      <item itemvalue="Embedded GDB Server.STLink" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="787bab6c-71f1-4111-a98d-9380666d64fd" name="Changes" comment="" />
+      <created>1692641388992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692641388992</updated>
+      <workItem from="1692641391461" duration="1146000" />
+      <workItem from="1692784771799" duration="6506000" />
+      <workItem from="1695027938620" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="CMakeExceptionBreakpoint" />
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
