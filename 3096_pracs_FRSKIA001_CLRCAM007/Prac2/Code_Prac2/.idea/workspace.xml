@@ -22,6 +22,35 @@
   <component name="ChangeListManager">
     <list default="true" id="787bab6c-71f1-4111-a98d-9380666d64fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/Inc/lcd_stm32f0.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/Inc/lcd_stm32f0.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/Src/stm32f0xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/Src/stm32f0xx_it.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/Src/syscalls.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/Src/sysmem.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/Startup/startup_stm32f051c6tx.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-9e4ed1697c0bbb55b7b3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-18T09-54-05-0802.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/.cmake/api/v1/reply/target-Code_Prac3.elf-Debug-0c6872c64c7e69ae23f9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/Code_Prac3.elf.dir/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/Code_Prac3.elf.dir/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/Code_Prac3.elf.dir/Src/stm32f0xx_it.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/Code_Prac3.elf.dir/Src/stm32f0xx_it.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/Code_Prac3.elf.dir/Src/syscalls.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/Code_Prac3.elf.dir/Src/sysmem.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/Code_Prac3.elf.dir/Startup/startup_stm32f051c6tx.s.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/Code_Prac3.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/Code_Prac3.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/Code_Prac3.elf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/Code_Prac3.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/Code_Prac3.hex" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/Code_Prac3.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/Code_Prac3.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/Code_Prac3.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac3/Code_Prac3/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,23 +146,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/3096_pracs_FRSKIA001_CLRCAM007/Prac2/Code_Prac2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Embedded GDB Server.STLink">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="Code.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="Code.elf">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -163,6 +198,7 @@
       <workItem from="1692641391461" duration="1146000" />
       <workItem from="1692784771799" duration="6506000" />
       <workItem from="1695027938620" duration="12000" />
+      <workItem from="1695138130224" duration="17000" />
     </task>
     <servers />
   </component>

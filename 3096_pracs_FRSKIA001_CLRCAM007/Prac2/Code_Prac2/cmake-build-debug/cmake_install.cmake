@@ -1,4 +1,4 @@
-# Install script for directory: /Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/3096_pracs_FRSKIA001_CLRCAM007/Prac2/Code
+# Install script for directory: /Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/3096_pracs_FRSKIA001_CLRCAM007/Prac2/Code_Prac2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/3096_pracs_FRSKIA001_CLRCAM007/Prac2/Code/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/3096_pracs_FRSKIA001_CLRCAM007/Prac2/Code_Prac2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
