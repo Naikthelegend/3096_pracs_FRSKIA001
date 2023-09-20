@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code -B /Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/cmake-build-debug
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code -B /Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/cmake-build-debug
 -- The C compiler identification is GNU 13.1.0
 -- The CXX compiler identification is GNU 13.1.0
 -- The ASM compiler identification is GNU
@@ -16,4 +16,4 @@
 -- Minimal optimization, debug info included
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/cmake-build-debug
+-- Build files have been written to: /Users/cameronclark/Documents/UCT/EEE3096S/3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/cmake-build-debug
