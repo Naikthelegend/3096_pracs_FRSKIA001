@@ -51,11 +51,11 @@ endif ()
 
 include_directories(Inc Drivers/STM32F0xx_HAL_Driver/Inc Drivers/STM32F0xx_HAL_Driver/Inc/Legacy Drivers/CMSIS/Device/ST/STM32F0xx/Include Drivers/CMSIS/Include)
 
-add_definitions(-DDEBUG -DUSE_HAL_DRIVER -DSTM32F030x6)
+add_definitions(-DDEBUG -DUSE_HAL_DRIVER -DSTM32F051x8)
 
 file(GLOB_RECURSE SOURCES "Startup/*.*" "Src/*.*" "Drivers/*.*")
 
-set(LINKER_SCRIPT ${CMAKE_SOURCE_DIR}/STM32F030F4PX_FLASH.ld)
+set(LINKER_SCRIPT ${CMAKE_SOURCE_DIR}/STM32F051C6TX_FLASH.ld)
 
 add_link_options(-Wl,-gc-sections,--print-memory-usage,-Map=${PROJECT_BINARY_DIR}/${PROJECT_NAME}.map)
 add_link_options(-mcpu=cortex-m0 -mthumb -mthumb-interwork)
