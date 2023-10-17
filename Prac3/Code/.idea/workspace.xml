@@ -21,149 +21,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3f31339-1319-4c23-9f25-bd983e62ce57" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/.cproject" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/.mxproject" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/.osx.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Code.ioc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f051x8.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f0xx.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Device/ST/STM32F0xx/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/cmsis_armcc.h" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/cmsis_armclang.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/cmsis_compiler.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/cmsis_gcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/cmsis_iccarm.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/cmsis_version.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/core_armv8mbl.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/core_armv8mml.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/core_cm0.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/core_cm0plus.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/core_cm1.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/core_cm23.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/core_cm3.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/core_cm33.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/core_cm4.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/core_cm7.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/core_sc000.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/core_sc300.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/mpu_armv7.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/mpu_armv8.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/Include/tz_context.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/CMSIS/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_cortex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_def.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_dma.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_dma_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_exti.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_gpio.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_gpio_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_rcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_rcc_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_tim.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_tim_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_cortex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_crs.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_dma.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_exti.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_gpio.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_pwr.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_rcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_system.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_tim.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_utils.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_exti.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_gpio.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_rcc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_ll_utils.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Inc/dma.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Inc/gpio.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Inc/main.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Inc/stm32_assert.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Inc/stm32f0xx_hal_conf.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Inc/stm32f0xx_it.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Inc/tim.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/STM32F051C6TX_FLASH.ld" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Src/dma.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Src/gpio.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Src/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Src/stm32f0xx_hal_msp.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Src/stm32f0xx_it.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Src/syscalls.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Src/sysmem.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Src/system_stm32f0xx.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Src/tim.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../3096_pracs_FRSKIA001_CLRCAM007/Prac3/Code/Startup/startup_stm32f051c6tx.s" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/.cproject" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/.cproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Prac4/Code/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/.mxproject" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Prac4/Code/Code.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/Code.ioc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f030x6.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/Inc/main.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/Inc/main.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/Inc/stm32f0xx_hal_conf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/Inc/stm32f0xx_hal_conf.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/Inc/stm32f0xx_it.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/Inc/stm32f0xx_it.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/Inc/tim.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/Inc/tim.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Prac4/Code/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/Src/stm32f0xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/Src/stm32f0xx_it.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-17T10-28-57-0960.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/.ninja_deps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-4472565892f205e847fc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-17T13-10-29-0743.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/.cmake/api/v1/reply/target-Code.elf-Debug-90f08cd4b50cf9e43366.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Src/main.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Src/stm32f0xx_hal_msp.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Src/stm32f0xx_it.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Src/syscalls.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Src/sysmem.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Src/system_stm32f0xx.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Startup/startup_stm32f030f4px.s.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Code.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Code.elf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Code.hex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Code.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Src/tim.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/CMakeFiles/Code.elf.dir/Src/tim.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Code.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Code.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Code.elf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Code.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Code.hex" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Code.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Code.map" beforeDir="false" afterPath="$PROJECT_DIR$/../../Prac4/Code/cmake-build-debug/Code.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,6 +123,7 @@
       <workItem from="1697547024953" duration="38000" />
       <workItem from="1697547706934" duration="13000" />
       <workItem from="1697547762755" duration="37000" />
+      <workItem from="1697554442230" duration="49000" />
     </task>
     <servers />
   </component>
