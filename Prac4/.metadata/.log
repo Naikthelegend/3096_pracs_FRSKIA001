@@ -1,0 +1,33 @@
+!SESSION 2023-10-17 14:38:33.078 -----------------------------------------------
+eclipse.buildId=Version 1.13.1
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_ZA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-17 14:39:40.659
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-17 14:39:40.662
+!MESSAGE Log4j2 initialized with config file C:\Users\kianf\OneDrive\Desktop\96\3096_pracs_FRSKIA001_CLRCAM007\Prac4\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-17 14:39:46.191
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 0 2023-10-17 14:41:57.447
+!MESSAGE STM32CubeMx project generation failure
+!SESSION 2023-10-17 15:05:07.928 -----------------------------------------------
+eclipse.buildId=Version 1.13.1
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_ZA
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-17 15:05:19.895
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-17 15:05:19.897
+!MESSAGE Log4j2 initialized with config file C:\Users\kianf\OneDrive\Desktop\96\3096_pracs_FRSKIA001_CLRCAM007\Prac4\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-17 15:05:25.906
+!MESSAGE Started RMI Server, listening on port 41337
